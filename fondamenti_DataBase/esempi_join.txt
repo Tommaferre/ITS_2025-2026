@@ -1,0 +1,29 @@
+select *
+from libro, editore
+where libro.editore_id = editore:id;
+
+
+select *
+from libro
+join editore on libro.editore_id = editore:id;
+ dammi tutti i libri che hanno un editore
+ 
+ 
+ se vuoi tutti i libri con e senza editore:
+select *
+from libro
+left join editore on libro.editore_id = editore:id;
+ 
+ 
+se vuoi tutti gli editori pure se non hanno libri:
+select *
+from libro
+right join editore on libro.editore_id = editore:id;
+
+select  e.nome, l.titolo, a.nome, a.cognome 
+from autore_libro as al
+join libro as l on al.libro_id = l.id #associazione di chiave fk di AutoriLibri con pk libro
+join autore as a on al.autore_id = a.id #associazione autore-libro -> autore
+join editore as e on l.editore_id = e.id #associazione libro->editore
+
+ 

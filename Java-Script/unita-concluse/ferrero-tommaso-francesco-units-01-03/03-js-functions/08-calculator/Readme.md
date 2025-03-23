@@ -1,0 +1,1 @@
+This script add a function to the project 07-math-library that perform every operation in that project all in one 

@@ -1,0 +1,18 @@
+nome:asd
+Età:23
+Altezza:1.7
+Matrimonio:False
+Materie:['a', 'b']
+
+nome:qwe
+Età:23
+Altezza:1.9
+Matrimonio:True
+Materie:['b']
+
+nome:iop
+Età:45
+Altezza:1.2
+Matrimonio:False
+Materie:['a', 'b', 'c', 'd', 'e']
+

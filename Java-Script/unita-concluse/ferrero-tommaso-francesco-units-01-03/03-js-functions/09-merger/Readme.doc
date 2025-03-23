@@ -1,0 +1,11 @@
+This project contain a function called merger that merge two parameter based on their types: it sums numbers, concatenates strings, and returns null for other types.
+
+### Explanation of Operators with the Same Symbol but Different Behavior
+
+In JavaScript, some operators have the same symbol but behave differently based on the types of the operands.
+
+Why Does This Happen?
+JavaScript is a loosely typed language, meaning it automatically converts data types in certain operations. This is known as type coercion. When using for example +, JavaScript follows these rules:
+If both operands are numbers, perform addition.
+
+If at least one operand is a string, convert the other to a string and concatenate.

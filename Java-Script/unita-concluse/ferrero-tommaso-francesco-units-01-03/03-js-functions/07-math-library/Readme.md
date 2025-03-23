@@ -1,0 +1,2 @@
+This script have four function, one that square a number, one that divide a number by two,
+one that calculate what percent the first number represents of the second number and the last one that calculate the area based on a parameter (radius)

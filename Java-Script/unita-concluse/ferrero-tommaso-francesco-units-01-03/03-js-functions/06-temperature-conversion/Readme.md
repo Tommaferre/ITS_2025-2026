@@ -1,0 +1,1 @@
+This script defines two functions: one to convert Celsius to Fahrenheit and another to convert Fahrenheit to Celsius. It then calls these functions with example temperatures.

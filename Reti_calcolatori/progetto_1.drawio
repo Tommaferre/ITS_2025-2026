@@ -1,0 +1,131 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Pagina-1" id="2DPdEDVjBFWhLtTaOWAX">
+    <mxGraphModel dx="-35" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-3" target="dYL2p_-MX4AVTwZk4sk0-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="345" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1020" y="141" />
+              <mxPoint x="1020" y="340" />
+              <mxPoint x="1121" y="340" />
+              <mxPoint x="1121" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-3" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="930" y="110" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-5" target="dYL2p_-MX4AVTwZk4sk0-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1155" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-5" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="110" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-6" target="dYL2p_-MX4AVTwZk4sk0-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="345" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="141" />
+              <mxPoint x="1270" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="110" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-9" value="192.172.0.2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="916.2" y="70" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-10" value="192.172.0.3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="68" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-11" value="192.172.0.4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1285" y="68" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.456;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-30" target="dYL2p_-MX4AVTwZk4sk0-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1155" y="550" as="targetPoint" />
+            <mxPoint x="1155" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-16" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.lightbulb;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="210" width="22.8" height="29.7" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-18" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" vertex="1" parent="1">
+          <mxGeometry x="871" y="240" width="59" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-20" value="smart tv" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="865.5" y="240" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-21" value="lampadina&amp;nbsp;&lt;div&gt;smart&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1431.4" y="235" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-23" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="560" width="200" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-24" value="connessione con la rete esterna" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="608" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-25" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.wifi_router;" vertex="1" parent="1">
+          <mxGeometry x="1130.05" y="320" width="59.95" height="60.07" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-26" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;rotation=-165;" vertex="1" parent="1">
+          <mxGeometry x="1381.4" y="250" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;rotation=75;" vertex="1" parent="1">
+          <mxGeometry x="942.4" y="260" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-30" value="router&lt;div&gt;192.172.0.1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="370" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-32" value="192.172.0.10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="852.4" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-33" value="192.172.0.20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1426.4" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-34" value="gestione del traffico e accesso ad internet,&lt;div&gt;tutti i dispositivi ricevono un indirizzo ip privato&amp;nbsp;&lt;/div&gt;&lt;div&gt;nella rete lan interna così che possano comunicare&lt;/div&gt;&lt;div&gt;tra loro&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="410" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-36" target="dYL2p_-MX4AVTwZk4sk0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-36" value="dispositivi cablati" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="8" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.476;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-36" target="dYL2p_-MX4AVTwZk4sk0-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-36" target="dYL2p_-MX4AVTwZk4sk0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-40" value="dispositivi wifi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1411.4" y="142.4" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=-0.101;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-40" target="dYL2p_-MX4AVTwZk4sk0-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-44" value="dispositivi wifi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="178" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.35;entryY=-0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-44" target="dYL2p_-MX4AVTwZk4sk0-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.448;entryY=-0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-25" target="dYL2p_-MX4AVTwZk4sk0-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-48" value="Per comunicare con Internet,&lt;div&gt;quando un dispositivo invia una richiesta ad&amp;nbsp;&lt;/div&gt;&lt;div&gt;un sito web, il router traduce il suo ip privato in un ip pubblico&amp;nbsp;&lt;/div&gt;&lt;div&gt;e inoltra la richiesta a un server DNS pubblico.&lt;/div&gt;&lt;div&gt;Il server DNS risponde con l&#39;IP del server richiesto.&lt;/div&gt;&lt;div&gt;a questo punto il browser avvia una connessione con il server&lt;/div&gt;&lt;div&gt;usando il protocollo TCP/IP.&lt;/div&gt;&lt;div&gt;il server invia la risposta e la pagina viene visualizzata dall&#39;utente&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="982.4" y="760" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dYL2p_-MX4AVTwZk4sk0-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.502;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dYL2p_-MX4AVTwZk4sk0-23" target="dYL2p_-MX4AVTwZk4sk0-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
