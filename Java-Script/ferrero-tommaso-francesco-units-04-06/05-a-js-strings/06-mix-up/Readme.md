@@ -2,7 +2,7 @@
 
 ## Author
 
-Tommaso Ferrero
+Tommaso Ferrero SWD
 
 ## Requests
 
