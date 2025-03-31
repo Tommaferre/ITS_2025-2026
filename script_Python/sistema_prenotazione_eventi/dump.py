@@ -40,6 +40,3 @@ CREATE TABLE Partecipanti (
            FOREIGN KEY(id_Evento) REFERENCES Eventi(id_Evento)
            )
 ''')
-
-creaDB.comm()
-creaDB.closeConn()

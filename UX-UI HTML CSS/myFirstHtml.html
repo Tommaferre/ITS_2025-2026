@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homepage</title>
+</head>
+<body>
+    <header>
+        <h1>Homepage</h1>
+        <h3><strong>Hello this is my first HTML5 file</strong></h3>
+        <hr>
+    </header>
+    <nav>
+        <p>Indice della pagina</p>
+        <ol>
+            <li><a href="#piccolo-lupo-mannaro">Il piccolo lupo mannaro</a></li>
+            <li><a href="#stella-marina">La stella marina Valentina</a></li>
+            <li><a href="https://www.google.it/" target="_blank">Link a Google</a></li>
+            <li><a href="http://localhost:63342/its-project/404.html?">Link a una seconda <strong >pagina interna html</strong></a></li>
+        </ol>
+    </nav>
+
+    <section id="piccolo-lupo-mannaro">
+        <h3>Il piccolo lupo mannaro</h3>
+        <p>Nel cuore di una fitta foresta, viveva un piccolo lupo mannaro di nome <strong>Antonio</strong>.  Era noto in tutta la foresta per il suo pelo folto e per i suoi occhi lucenti. Ma c’era qualcosa di speciale in Antonio: era un lupo mannaro che durante la luna piena si trasformava un bambino. 
+        </p><p>Anche se amava la sua doppia natura, Antonio a volte si sentiva solo. Gli altri lupi non capivano perché diventava un bambino durante la <i>luna piena</i>, e i bambini del villaggio vicino avevano paura di lui perché era un <i>lupo</i>.</p>
+        <p>Un giorno, durante la luna piena, Antonio decise di avventurarsi nel villaggio.<br>Camminò per le strade deserte, osservando le case e le persone dentro. Ad un tratto, sentì un pianto provenire da una delle case.<br>Era una piccola bambina di nome Lucia. Era seduta da sola, piangendo. Antonio, sotto forma di bambino, si avvicinò a lei.</p>
+        <ul>
+            <li>“Perché piangi, Lucia?” chiese Antonio.</li>
+            <li>“Mi sento sola,” rispose Lucia.</li>“Gli altri bambini non vogliono giocare con me perché dicono che sono diversa.”
+            <li><i>Antonio si sedette accanto a Lucia.</i></li>
+            <p>“Anch’io mi sento diverso a volte,” disse.<br>“Sono un lupo mannaro. Durante la luna piena divento un bambino, come te.”</p>
+            <li><i>Lucia guardò Antonio con sorpresa. Poi, dopo un po’, iniziò a ridere.</i></li><p>“Sei un lupo mannaro? Questo è incredibile! Penso che essere diversi ci renda <strong>speciali</strong>.”</p>  
+        </ul>
+        <p>Da quel giorno, Antonio e Lucia divennero i migliori amici. Giocavano insieme durante le notti di luna piena e Antonio la proteggeva nei giorni in cui era un lupo. La foresta e il villaggio non sembravano più posti solitari per nessuno di loro.</p>
+        <p><i>Morale della storia:</i> Le nostre differenze non dovrebbero isolarci, ma renderci <strong>unici</strong>. Trovare qualcuno che capisca la tua unicità può trasformare la solitudine in amicizia.</p>
+    </section>
+    <hr>
+    <section id="stella-marina">
+        <h3>La stella marina Valentina</h3>
+        <p>C’era una volta una stella di mare di nome <strong>Valentina</strong> che viveva in un <strong>mare cristallino</strong>. Era una stella di mare di un meraviglioso colore arancione vivace, che aveva una voce davvero incantevole. A Valentina piaceva giocare con i suoi amici pesci e conchiglie, anche se era un po’ più lenta degli altri.</p><p>Un giorno, mentre nuotava, notò che il mare non era più pulito come prima. C’erano tanti rifiuti e il mare era diventato molto scuro.<i>“Che brutto!”</i> pensò Valentina preoccupata.<br><i>“Come possiamo risolvere questo problema?”</i>.</p>
+        <p>Valentina parlò con i suoi amici pesci e insieme decisero di organizzare una grande manifestazione per sensibilizzare le persone a non sporcare il mare.
+        <i>“Ma come possiamo farlo?”</i> chiese la piccola stella di mare.<br><i>“Possiamo parlare con tutti gli abitanti della Terra e spiegare loro quanto sia importante mantenere il nostro mare pulito e sicuro per tutti noi.”</i> rispose il granchio.</p>
+        <p>Così Valentina decise di diventare portavoce del gruppo. Grazie al suo canto dolce e melodioso, riuscì a convincere molte persone ad adottare comportamenti più<a href="https://www.treccani.it/vocabolario/ecosostenibile/?"> eco-sostenibili(https://www.treccani.it/vocabolario/ecosostenibile/).</a><br>“Dobbiamo gettare i nostri rifiuti nella spazzatura e non in mare! Dobbiamo ridurre l’utilizzo della plastica!” cantò Valentina.</p>
+        <p>La manifestazione ebbe un grandissimo successo. Con il tempo il mare ricominciò ad essere sempre più pulito e le creature marine tornarono a vivere serenamente.<br>“Wow, che meraviglia!" disse Valentina felice. “Ce l’abbiamo fatta! Grazie a tutti voi!” E tutti gli animali del mare si abbracciarono felici.<br>E da quel giorno,<strong>Valentina</strong>  continuò a lavorare per la salvaguardia delle creature marine e del mare stesso.<i>“Non bisogna mai arrendersi”</i> diceva sempre.<br>“Ognuno di noi, anche se piccolo, può fare la differenza e contribuire a rendere il mondo un posto migliore. <strong>Bisogna solo avere il coraggio di parlare e agire per ciò in cui si crede.</strong> ”</p>
+    </section>
+    <hr>
+    <!-- Inserimento di un'immagine, metti tutto il percorso se sono in cartelle diverse se no basta il nome dell'immagine -->
+    <img src ="C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\UX-UI HTML CSS/claudione.jpg" alt="Claudio Bisio" width="300" height="240">
+    <hr>
+    <figure>
+        <video id="MyVideo" width="320" height="240" controls autoplay loop muted>
+            <source src="Italia2006.mp4" type="video/mp4">
+        </video>
+        <figcaption>Descrizione breve del video</figcaption>
+    </figure>
+    <div>
+        <button onclick="togglePlay()">Play/Pausa</button>
+        <button onclick="toggleMute()">Attiva/Disattiva Audio</button>
+    </div>
+    <script>
+        var myVideo = document.getElementById("MyVideo");
+        function togglePlay() {
+            if (myVideo.paused)
+                myVideo.play();
+            else
+                myVideo.pause();
+        }
+        function toggleMute() {
+            if (myVideo.muted)
+                myVideo.muted = false;
+            else
+                myVideo.muted = true;
+        }
+    </script>
+    <hr>
+    <table>
+        <!-- Tabella senza bordi più easy-->
+        <!-- Intestazione della tabella -->
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Titolo</th>
+                <th>Regia</th>
+                <th>Anno uscita</th>
+                <th>Genere</th>
+                <th>Piattaforma</th>
+            </tr>
+        </thead>
+        <!-- Corpo della tabella -->
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td><b>Pirati dei caraibi - ai confini del mondo</b></td>
+                <td>Gore Verbinski</td>
+                <td>2007</td>
+                <td>Avventura, fantasy</td>
+                <td><img src="logoDisney.jpg" alt="Disney+" width="40"></td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><b>The Electric State</b></td>
+                <td>Anthony Russo<br>Joe Russo</td>
+                <td>2025</td>
+                <td>Azione, distopico sci-fi</td>
+                <td><img src="logo-netflix.png" alt="Netflix" width="40"></td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><b>The Blues Brothers</b></td>
+                <td>John Landis</td>
+                <td>1980</td>
+                <td>Commedia, avventura</td>
+                <td><img src="logo-now.jpg" alt="NOW TV" width="40"></td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <!-- Tabella coi bordi -->
+    <h3>Lista Film</h3>
+    <table width="100%" border="1" style="border-collapse: collapse; margin-top: 20px;">
+        <thead>
+            <tr style="background-color: #f4f4f4;">
+                <th style="padding: 10px; text-align: left;">Id</th>
+                <th style="padding: 10px; text-align: left;">Titolo</th>
+                <th style="padding: 10px; text-align: left;">Regia</th>
+                <th style="padding: 10px; text-align: left;">Anno uscita</th>
+                <th style="padding: 10px; text-align: left;">Genere</th>
+                <th style="padding: 10px; text-align: left;">Piattaforma</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 10px;">1</td>
+                <td style="padding: 10px;"><b>Pirati dei caraibi - ai confini del mondo</b></td>
+                <td style="padding: 10px;">Gore Verbinski</td>
+                <td style="padding: 10px;">2007</td>
+                <td style="padding: 10px;">Avventura, fantasy</td>
+                <td style="padding: 10px;"><img src="logoDisney.jpg" alt="Disney+" width="40" style="height: auto;"></td>
+            </tr>
+            <tr>
+                <td style="padding: 10px;">2</td>
+                <td style="padding: 10px;"><b>The Electric State</b></td>
+                <td style="padding: 10px;">Anthony Russo<br>Joe Russo</td>
+                <td style="padding: 10px;">2025</td>
+                <td style="padding: 10px;">Azione, distopico sci-fi</td>
+                <td style="padding: 10px;"><img src="logo-netflix.png" alt="Netflix" width="40" style="height: auto;"></td>
+            </tr>
+            <tr>
+                <td style="padding: 10px;">3</td>
+                <td style="padding: 10px;"><b>The Blues Brothers</b></td>
+                <td style="padding: 10px;">John Landis</td>
+                <td style="padding: 10px;">1980</td>
+                <td style="padding: 10px;">Commedia, avventura</td>
+                <td style="padding: 10px;"><img src="logo-now.jpg" alt="NOW TV" width="40" style="height: auto;"></td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <p></p>
+    <table border="1" width="100%">
+        <!-- Titolo della tabella con il numero di film -->
+        <caption><strong>Totale Film Registrati: 3</strong></caption>
+    
+        <!-- Intestazione della tabella -->
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Titolo</th>
+                <th colspan="2">Regia e Anno Uscita</th>
+                <th>Genere</th>
+                <th>Piattaforma</th>
+            </tr>
+        </thead>
+    
+        <!-- Corpo della tabella -->
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td><strong>Pirati dei Caraibi - Ai confini del mondo</strong></td>
+                <td>Gore Verbinski</td>
+                <td>2007</td>
+                <td>Avventura, Fantasy</td>
+                <td>Disney+</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><strong>The Electric State</strong></td>
+                <td>Anthony e Joe Russo</td>
+                <td>2025</td>
+                <td>Azione, Distopico, Sci-Fi</td>
+                <td>Netflix</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><strong>The Blues Brothers</strong></td>
+                <td>John Landis</td>
+                <td>1980</td>
+                <td>Commedia, Avventura</td>
+                <td>NOW TV</td>
+            </tr>
+            <!-- Riga vuota con rowspan -->
+            <tr>
+                <td colspan="6" rowspan="1">----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</td>
+            </tr>
+        </tbody>
+    
+        <!-- Piè di pagina -->
+        <tfoot>
+            <tr>
+                <td colspan="6"><strong>Archivio Film Completo</strong></td>
+            </tr>
+        </tfoot>
+    </table>
+    
+    
+
+</body>
+</html>

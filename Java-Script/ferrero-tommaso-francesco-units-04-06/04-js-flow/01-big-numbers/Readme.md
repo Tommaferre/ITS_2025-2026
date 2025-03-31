@@ -1,0 +1,1 @@
+This script have a function that with an if-else statement find the greatest number beetwen two numbers
