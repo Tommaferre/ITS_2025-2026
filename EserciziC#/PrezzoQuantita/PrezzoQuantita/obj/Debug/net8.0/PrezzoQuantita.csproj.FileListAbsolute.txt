@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\bin\Debug\net8.0\PrezzoQuantita.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\obj\Debug\net8.0\refint\PrezzoQuantita.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\obj\Debug\net8.0\PrezzoQuantita.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\PrezzoQuantita\PrezzoQuantita\obj\Debug\net8.0\ref\PrezzoQuantita.dll

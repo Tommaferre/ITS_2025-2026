@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\bin\Debug\net8.0\Triangolo.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\bin\Debug\net8.0\Triangolo.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\bin\Debug\net8.0\Triangolo.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\bin\Debug\net8.0\Triangolo.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\bin\Debug\net8.0\Triangolo.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\obj\Debug\net8.0\Triangolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\obj\Debug\net8.0\Triangolo.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\obj\Debug\net8.0\Triangolo.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\obj\Debug\net8.0\Triangolo.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\obj\Debug\net8.0\Triangolo.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\obj\Debug\net8.0\refint\Triangolo.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\obj\Debug\net8.0\Triangolo.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\obj\Debug\net8.0\Triangolo.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Triangolo\Triangolo\obj\Debug\net8.0\ref\Triangolo.dll

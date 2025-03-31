@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\bin\Debug\net8.0\EstrazioneLotto.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\bin\Debug\net8.0\EstrazioneLotto.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\bin\Debug\net8.0\EstrazioneLotto.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\bin\Debug\net8.0\EstrazioneLotto.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\bin\Debug\net8.0\EstrazioneLotto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\obj\Debug\net8.0\EstrazioneLotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\obj\Debug\net8.0\EstrazioneLotto.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\obj\Debug\net8.0\EstrazioneLotto.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\obj\Debug\net8.0\EstrazioneLotto.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\obj\Debug\net8.0\EstrazioneLotto.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\obj\Debug\net8.0\refint\EstrazioneLotto.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\obj\Debug\net8.0\EstrazioneLotto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\obj\Debug\net8.0\EstrazioneLotto.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\EstrazioneLotto\EstrazioneLotto\obj\Debug\net8.0\ref\EstrazioneLotto.dll

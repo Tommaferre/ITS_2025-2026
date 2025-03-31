@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\bin\Debug\net8.0\Benvenuto.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\bin\Debug\net8.0\Benvenuto.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\bin\Debug\net8.0\Benvenuto.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\bin\Debug\net8.0\Benvenuto.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\bin\Debug\net8.0\Benvenuto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\obj\Debug\net8.0\Benvenuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\obj\Debug\net8.0\Benvenuto.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\obj\Debug\net8.0\Benvenuto.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\obj\Debug\net8.0\Benvenuto.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\obj\Debug\net8.0\Benvenuto.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\obj\Debug\net8.0\refint\Benvenuto.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\obj\Debug\net8.0\Benvenuto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\obj\Debug\net8.0\Benvenuto.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Benvenuto\Benvenuto\obj\Debug\net8.0\ref\Benvenuto.dll

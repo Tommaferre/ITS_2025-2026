@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\bin\Debug\net8.0\FrequenzaLanciaDado.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\bin\Debug\net8.0\FrequenzaLanciaDado.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\bin\Debug\net8.0\FrequenzaLanciaDado.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\bin\Debug\net8.0\FrequenzaLanciaDado.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\bin\Debug\net8.0\FrequenzaLanciaDado.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\obj\Debug\net8.0\FrequenzaLanciaDado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\obj\Debug\net8.0\FrequenzaLanciaDado.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\obj\Debug\net8.0\FrequenzaLanciaDado.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\obj\Debug\net8.0\FrequenzaLanciaDado.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\obj\Debug\net8.0\FrequenzaLanciaDado.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\obj\Debug\net8.0\refint\FrequenzaLanciaDado.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\obj\Debug\net8.0\FrequenzaLanciaDado.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\obj\Debug\net8.0\FrequenzaLanciaDado.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FrequenzaLanciaDado\FrequenzaLanciaDado\obj\Debug\net8.0\ref\FrequenzaLanciaDado.dll

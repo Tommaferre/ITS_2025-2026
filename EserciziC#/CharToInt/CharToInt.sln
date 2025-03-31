@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharToInt", "CharToInt\CharToInt.csproj", "{B16968FA-3A47-4EC4-BB60-FD1285BEF4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B16968FA-3A47-4EC4-BB60-FD1285BEF4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B16968FA-3A47-4EC4-BB60-FD1285BEF4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B16968FA-3A47-4EC4-BB60-FD1285BEF4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B16968FA-3A47-4EC4-BB60-FD1285BEF4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A315B5-D0D7-4A1B-BAC2-53990EB3346B}
+	EndGlobalSection
+EndGlobal

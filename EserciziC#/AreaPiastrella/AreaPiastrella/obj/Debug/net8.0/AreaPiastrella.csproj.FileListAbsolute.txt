@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\obj\Debug\net8.0\AreaPiastrella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\obj\Debug\net8.0\AreaPiastrella.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\obj\Debug\net8.0\AreaPiastrella.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\obj\Debug\net8.0\AreaPiastrella.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\bin\Debug\net8.0\AreaPiastrella.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\bin\Debug\net8.0\AreaPiastrella.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\bin\Debug\net8.0\AreaPiastrella.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\bin\Debug\net8.0\AreaPiastrella.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\bin\Debug\net8.0\AreaPiastrella.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\obj\Debug\net8.0\AreaPiastrella.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\obj\Debug\net8.0\refint\AreaPiastrella.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\obj\Debug\net8.0\AreaPiastrella.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\obj\Debug\net8.0\AreaPiastrella.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\AreaPiastrella\AreaPiastrella\obj\Debug\net8.0\ref\AreaPiastrella.dll

@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\bin\Debug\net8.0\FatturaLiberaProfessioneRivalsa.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\bin\Debug\net8.0\FatturaLiberaProfessioneRivalsa.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\bin\Debug\net8.0\FatturaLiberaProfessioneRivalsa.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\bin\Debug\net8.0\FatturaLiberaProfessioneRivalsa.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\bin\Debug\net8.0\FatturaLiberaProfessioneRivalsa.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\obj\Debug\net8.0\FatturaLiberaProfessioneRivalsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\obj\Debug\net8.0\FatturaLiberaProfessioneRivalsa.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\obj\Debug\net8.0\FatturaLiberaProfessioneRivalsa.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\obj\Debug\net8.0\FatturaLiberaProfessioneRivalsa.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\obj\Debug\net8.0\FatturaLiberaProfessioneRivalsa.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\obj\Debug\net8.0\refint\FatturaLiberaProfessioneRivalsa.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\obj\Debug\net8.0\FatturaLiberaProfessioneRivalsa.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\obj\Debug\net8.0\FatturaLiberaProfessioneRivalsa.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaLiberaProfessioneRivalsa\FatturaLiberaProfessioneRivalsa\obj\Debug\net8.0\ref\FatturaLiberaProfessioneRivalsa.dll

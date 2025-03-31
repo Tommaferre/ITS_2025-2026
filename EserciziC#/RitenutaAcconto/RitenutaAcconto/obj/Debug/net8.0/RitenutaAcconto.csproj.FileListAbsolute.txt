@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\bin\Debug\net8.0\RitenutaAcconto.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\bin\Debug\net8.0\RitenutaAcconto.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\bin\Debug\net8.0\RitenutaAcconto.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\bin\Debug\net8.0\RitenutaAcconto.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\bin\Debug\net8.0\RitenutaAcconto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\obj\Debug\net8.0\RitenutaAcconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\obj\Debug\net8.0\RitenutaAcconto.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\obj\Debug\net8.0\RitenutaAcconto.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\obj\Debug\net8.0\RitenutaAcconto.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\obj\Debug\net8.0\RitenutaAcconto.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\obj\Debug\net8.0\refint\RitenutaAcconto.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\obj\Debug\net8.0\RitenutaAcconto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\obj\Debug\net8.0\RitenutaAcconto.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\RitenutaAcconto\RitenutaAcconto\obj\Debug\net8.0\ref\RitenutaAcconto.dll

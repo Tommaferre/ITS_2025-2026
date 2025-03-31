@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\bin\Debug\net8.0\Cerchio.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\bin\Debug\net8.0\Cerchio.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\bin\Debug\net8.0\Cerchio.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\bin\Debug\net8.0\Cerchio.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\bin\Debug\net8.0\Cerchio.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\obj\Debug\net8.0\Cerchio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\obj\Debug\net8.0\Cerchio.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\obj\Debug\net8.0\Cerchio.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\obj\Debug\net8.0\Cerchio.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\obj\Debug\net8.0\Cerchio.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\obj\Debug\net8.0\refint\Cerchio.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\obj\Debug\net8.0\Cerchio.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\obj\Debug\net8.0\Cerchio.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\Cerchio\Cerchio\obj\Debug\net8.0\ref\Cerchio.dll

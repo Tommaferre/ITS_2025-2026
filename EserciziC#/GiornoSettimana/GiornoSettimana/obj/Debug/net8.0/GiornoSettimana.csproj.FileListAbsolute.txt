@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\bin\Debug\net8.0\GiornoSettimana.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\obj\Debug\net8.0\refint\GiornoSettimana.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\obj\Debug\net8.0\GiornoSettimana.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\GiornoSettimana\GiornoSettimana\obj\Debug\net8.0\ref\GiornoSettimana.dll

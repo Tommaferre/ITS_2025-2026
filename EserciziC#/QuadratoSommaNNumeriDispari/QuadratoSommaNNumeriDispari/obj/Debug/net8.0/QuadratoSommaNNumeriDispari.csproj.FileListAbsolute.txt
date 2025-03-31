@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\bin\Debug\net8.0\QuadratoSommaNNumeriDispari.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\bin\Debug\net8.0\QuadratoSommaNNumeriDispari.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\bin\Debug\net8.0\QuadratoSommaNNumeriDispari.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\bin\Debug\net8.0\QuadratoSommaNNumeriDispari.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\bin\Debug\net8.0\QuadratoSommaNNumeriDispari.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\obj\Debug\net8.0\QuadratoSommaNNumeriDispari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\obj\Debug\net8.0\QuadratoSommaNNumeriDispari.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\obj\Debug\net8.0\QuadratoSommaNNumeriDispari.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\obj\Debug\net8.0\QuadratoSommaNNumeriDispari.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\obj\Debug\net8.0\QuadratoSommaNNumeriDispari.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\obj\Debug\net8.0\refint\QuadratoSommaNNumeriDispari.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\obj\Debug\net8.0\QuadratoSommaNNumeriDispari.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\obj\Debug\net8.0\QuadratoSommaNNumeriDispari.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\QuadratoSommaNNumeriDispari\QuadratoSommaNNumeriDispari\obj\Debug\net8.0\ref\QuadratoSommaNNumeriDispari.dll

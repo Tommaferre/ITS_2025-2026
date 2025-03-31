@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tommaso.Ferrero\\Desktop\\EserciziC#\\Divisione2Interi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCDC8131-68DE-4CB6-8629-F39140F4B199}|Divisione2Interi\\Divisione2Interi.csproj|c:\\users\\tommaso.ferrero\\desktop\\esercizic#\\divisione2interi\\divisione2interi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCDC8131-68DE-4CB6-8629-F39140F4B199}|Divisione2Interi\\Divisione2Interi.csproj|solutionrelative:divisione2interi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\EserciziC#\\Divisione2Interi\\Divisione2Interi\\Program.cs",
+              "RelativeDocumentMoniker": "Divisione2Interi\\Program.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\EserciziC#\\Divisione2Interi\\Divisione2Interi\\Program.cs",
+              "RelativeToolTip": "Divisione2Interi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:19:09.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

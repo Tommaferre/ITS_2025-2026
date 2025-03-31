@@ -1,0 +1,14 @@
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\bin\Debug\net8.0\FatturaAzienda.exe
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\bin\Debug\net8.0\FatturaAzienda.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\bin\Debug\net8.0\FatturaAzienda.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\bin\Debug\net8.0\FatturaAzienda.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\bin\Debug\net8.0\FatturaAzienda.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\obj\Debug\net8.0\FatturaAzienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\obj\Debug\net8.0\FatturaAzienda.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\obj\Debug\net8.0\FatturaAzienda.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\obj\Debug\net8.0\FatturaAzienda.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\obj\Debug\net8.0\FatturaAzienda.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\obj\Debug\net8.0\refint\FatturaAzienda.dll
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\obj\Debug\net8.0\FatturaAzienda.pdb
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\obj\Debug\net8.0\FatturaAzienda.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\EserciziC#\FatturaAzienda\FatturaAzienda\obj\Debug\net8.0\ref\FatturaAzienda.dll
