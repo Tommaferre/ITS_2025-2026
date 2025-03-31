@@ -4,8 +4,6 @@
   this function change the first letter of the words in input to upper case
 */
 
-
-
 function capital(str) {
     if (!str) return str; // Handle empty string case
     return str.charAt(0).toUpperCase() + str.slice(1);
