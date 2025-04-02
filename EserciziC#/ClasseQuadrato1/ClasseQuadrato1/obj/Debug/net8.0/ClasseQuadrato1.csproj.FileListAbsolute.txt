@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\bin\Debug\net8.0\ClasseQuadrato1.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\bin\Debug\net8.0\ClasseQuadrato1.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\bin\Debug\net8.0\ClasseQuadrato1.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\bin\Debug\net8.0\ClasseQuadrato1.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\bin\Debug\net8.0\ClasseQuadrato1.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\ClasseQuadrato1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\ClasseQuadrato1.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\ClasseQuadrato1.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\ClasseQuadrato1.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\ClasseQuadrato1.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\ClasseQuadrato1.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\refint\ClasseQuadrato1.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\ClasseQuadrato1.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\ClasseQuadrato1.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseQuadrato1\ClasseQuadrato1\obj\Debug\net8.0\ref\ClasseQuadrato1.dll

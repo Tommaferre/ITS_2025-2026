@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseQuadrato1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{495F3B8E-A4C4-4EBF-8EC8-42E24F775D5F}|ClasseQuadrato1\\ClasseQuadrato1.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\classequadrato1\\classequadrato1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495F3B8E-A4C4-4EBF-8EC8-42E24F775D5F}|ClasseQuadrato1\\ClasseQuadrato1.csproj|solutionrelative:classequadrato1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{495F3B8E-A4C4-4EBF-8EC8-42E24F775D5F}|ClasseQuadrato1\\ClasseQuadrato1.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\classequadrato1\\classequadrato1\\quadrato1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{495F3B8E-A4C4-4EBF-8EC8-42E24F775D5F}|ClasseQuadrato1\\ClasseQuadrato1.csproj|solutionrelative:classequadrato1\\quadrato1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quadrato1.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseQuadrato1\\ClasseQuadrato1\\Quadrato1.cs",
+              "RelativeDocumentMoniker": "ClasseQuadrato1\\Quadrato1.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseQuadrato1\\ClasseQuadrato1\\Quadrato1.cs",
+              "RelativeToolTip": "ClasseQuadrato1\\Quadrato1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:28:34.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseQuadrato1\\ClasseQuadrato1\\Program.cs",
+              "RelativeDocumentMoniker": "ClasseQuadrato1\\Program.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseQuadrato1\\ClasseQuadrato1\\Program.cs",
+              "RelativeToolTip": "ClasseQuadrato1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:25:16.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

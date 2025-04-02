@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\bin\Debug\net8.0\ArrayNumeriInteri.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\refint\ArrayNumeriInteri.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\ArrayNumeriInteri.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayNumeriInteri\ArrayNumeriInteri\obj\Debug\net8.0\ref\ArrayNumeriInteri.dll

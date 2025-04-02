@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\bin\Debug\net8.0\ArrayCasualiInteri.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\refint\ArrayCasualiInteri.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\ArrayCasualiInteri.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ArrayCasualiInteri\ArrayCasualiInteri\obj\Debug\net8.0\ref\ArrayCasualiInteri.dll

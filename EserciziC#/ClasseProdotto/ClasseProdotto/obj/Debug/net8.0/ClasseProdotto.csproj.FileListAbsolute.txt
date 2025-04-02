@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\bin\Debug\net8.0\ClasseProdotto.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\bin\Debug\net8.0\ClasseProdotto.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\bin\Debug\net8.0\ClasseProdotto.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\bin\Debug\net8.0\ClasseProdotto.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\bin\Debug\net8.0\ClasseProdotto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\ClasseProdotto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\ClasseProdotto.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\ClasseProdotto.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\ClasseProdotto.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\ClasseProdotto.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\ClasseProdotto.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\refint\ClasseProdotto.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\ClasseProdotto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\ClasseProdotto.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseProdotto\ClasseProdotto\obj\Debug\net8.0\ref\ClasseProdotto.dll

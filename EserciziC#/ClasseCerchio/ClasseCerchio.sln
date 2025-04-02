@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasseCerchio", "ClasseCerchio\ClasseCerchio.csproj", "{D438A1A6-C72A-46D2-8E79-A810DE6C0C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D438A1A6-C72A-46D2-8E79-A810DE6C0C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D438A1A6-C72A-46D2-8E79-A810DE6C0C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D438A1A6-C72A-46D2-8E79-A810DE6C0C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D438A1A6-C72A-46D2-8E79-A810DE6C0C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A05D76BB-45D0-4DDD-A33D-F384BCA4DAF3}
+	EndGlobalSection
+EndGlobal

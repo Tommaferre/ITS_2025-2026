@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\bin\Debug\net8.0\ClasseCerchio.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\bin\Debug\net8.0\ClasseCerchio.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\bin\Debug\net8.0\ClasseCerchio.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\bin\Debug\net8.0\ClasseCerchio.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\bin\Debug\net8.0\ClasseCerchio.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\ClasseCerchio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\ClasseCerchio.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\ClasseCerchio.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\ClasseCerchio.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\ClasseCerchio.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\ClasseCerchio.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\refint\ClasseCerchio.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\ClasseCerchio.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\ClasseCerchio.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseCerchio\ClasseCerchio\obj\Debug\net8.0\ref\ClasseCerchio.dll
