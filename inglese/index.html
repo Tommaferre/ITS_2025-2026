@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Creare la tua prima pagina HTML</title>
+  <style>
+    /* Stile globale */
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    /* Header */
+    header {
+      background-color: #1f1f1f;
+      padding: 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    /* Navigazione */
+    nav {
+      background-color: #2c2c2c;
+      padding: 10px;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      text-align: center;
+      margin: 0;
+    }
+    nav ul li {
+      display: inline;
+      margin: 0 15px;
+    }
+    nav ul li a {
+      color: #e0e0e0;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    /* Contenitore principale */
+    .container {
+      padding: 30px;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .section h2 {
+      border-bottom: 2px solid #444;
+      padding-bottom: 10px;
+    }
+    /* Blocchi di codice */
+    pre {
+      background-color: #1f1f1f;
+      padding: 10px;
+      overflow-x: auto;
+      border-radius: 5px;
+    }
+    /* Pulsanti */
+    .button {
+      background-color: #3d3d3d;
+      border: none;
+      padding: 10px 20px;
+      color: #fff;
+      cursor: pointer;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+      margin: 5px;
+    }
+    .button:hover {
+      background-color: #575757;
+    }
+    /* Stile per la presentazione interattiva - Nuovo blocco codice */
+    .code-container {
+      display: none;
+      padding: 20px;
+      border: 1px solid #444;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+    .active-code {
+      display: block;
+    }
+    .code-box {
+      background-color: #1f1f1f;
+      padding: 10px;
+      overflow-x: auto;
+      border-radius: 5px;
+      font-family: monospace;
+      white-space: pre-wrap;
+    }
+    .slide-controls {
+      text-align: center;
+      margin-top: 20px;
+    }
+    /* Footer */
+    footer {
+      background-color: #1f1f1f;
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Creare la tua prima pagina HTML</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#intro">Introduzione</a></li>
+      <li><a href="#html">HTML</a></li>
+      <li><a href="#css">CSS</a></li>
+      <li><a href="#javascript">JavaScript</a></li>
+      <li><a href="#presentazione">Presentazione</a></li>
+    </ul>
+  </nav>
+  <div class="container">
+    <!-- Sezione Introduzione -->
+    <section id="intro" class="section">
+      <h2>Introduzione</h2>
+      <p>Benvenuto alla guida per creare la tua prima pagina HTML. In questa pagina imparerai le basi per strutturare un documento HTML, aggiungere stili con CSS e rendere interattiva la tua pagina con JavaScript.</p>
+    </section>
+    <!-- Sezione HTML -->
+    <section id="html" class="section">
+      <h2>HTML - La struttura della pagina</h2>
+      <p>L'HTML è il linguaggio di markup utilizzato per creare la struttura delle pagine web. Utilizza tag per definire elementi come titoli, paragrafi, immagini, link e molto altro.</p>
+      <pre>
+&lt;!DOCTYPE html&gt;
+&lt;html lang=\"it\"&gt;
+  &lt;head&gt;
+    &lt;meta charset=\"UTF-8\"&gt;
+    &lt;title&gt;La mia prima pagina HTML&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Ciao mondo!&lt;/h1&gt;
+    &lt;p&gt;Benvenuto nel mondo del web.&lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+      </pre>
+    </section>
+    <!-- Sezione CSS -->
+    <section id="css" class="section">
+      <h2>CSS - Lo stile della pagina</h2>
+      <p>Il CSS permette di definire lo stile dei tuoi elementi HTML, come colori, layout, spaziatura e molto altro. Nel nostro esempio, abbiamo scelto un tema scuro per un aspetto formale ed elegante.</p>
+      <pre>
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', sans-serif;
+}
+      </pre>
+    </section>
+    <!-- Sezione JavaScript -->
+    <section id="javascript" class="section">
+      <h2>JavaScript - L'interattività</h2>
+      <p>JavaScript è il linguaggio di programmazione che aggiunge interattività alle pagine web. Puoi usarlo per creare animazioni, gestire eventi e modificare dinamicamente il contenuto della pagina.</p>
+      <pre>
+document.addEventListener('DOMContentLoaded', function() {
+  console.log('La pagina è pronta!');
+});
+      </pre>
+    </section>
+    <!-- Sezione Presentazione Interattiva con livelli di complessità -->
+    <section id="presentazione" class="section">
+      <h2>Presentazione Interattiva</h2>
+      <p>Clicca sui pulsanti per navigare tra i livelli di complessità del codice HTML.</p>
+      <div id="code-examples">
+        <div class="code-container active-code">
+          <h3>Livello 1 - Base</h3>
+          <pre class="code-box">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Pagina Base&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Ciao Mondo!&lt;/h1&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</pre>
+        </div>
+        <div class="code-container">
+          <h3>Livello 2 - Con CSS</h3>
+          <pre class="code-box">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Pagina con Stile&lt;/title&gt;
+    &lt;style&gt;
+      body { background-color: #222; color: white; }
+    &lt;/style&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Pagina con Stile!&lt;/h1&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</pre>
+        </div>
+        <div class="code-container">
+          <h3>Livello 3 - Con Interattività</h3>
+          <pre class="code-box">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Pagina Interattiva&lt;/title&gt;
+    &lt;script&gt;
+      function saluta() {
+        alert('Ciao dal JavaScript!');
+      }
+    &lt;/script&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Pagina Interattiva!&lt;/h1&gt;
+    &lt;button onclick=&quot;saluta()&quot;&gt;Cliccami&lt;/button&gt;
+  &lt;/body&gt;
+&lt;/html&gt;</pre>
+        </div>
+      </div>
+      <div class="slide-controls">
+        <button class="button" id="prevCode">Precedente</button>
+        <button class="button" id="nextCode">Successiva</button>
+      </div>
+    </section>
+  </div>
+  <footer>
+    <p>Guida per la creazione della tua prima pagina HTML - Tutti i diritti riservati &copy; 2025</p>
+  </footer>
+  <script>
+    // JavaScript per la navigazione delle slide della presentazione interattiva (livelli di complessità)
+    (function() {
+      const codes = document.querySelectorAll('.code-container');
+      let currentIndex = 0;
+      
+      function showCode(index) {
+        codes.forEach(code => code.classList.remove('active-code'));
+        codes[index].classList.add('active-code');
+      }
+      
+      document.getElementById('nextCode').addEventListener('click', function() {
+        currentIndex = (currentIndex + 1) % codes.length;
+        showCode(currentIndex);
+      });
+      
+      document.getElementById('prevCode').addEventListener('click', function() {
+        currentIndex = (currentIndex - 1 + codes.length) % codes.length;
+        showCode(currentIndex);
+      });
+    })();
+  </script>
+</body>
+</html>

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseProdotto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFEDFA4-1A89-4376-8DF7-A4D58A56689E}|ClasseProdotto\\ClasseProdotto.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\classeprodotto\\classeprodotto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFEDFA4-1A89-4376-8DF7-A4D58A56689E}|ClasseProdotto\\ClasseProdotto.csproj|solutionrelative:classeprodotto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EDFEDFA4-1A89-4376-8DF7-A4D58A56689E}|ClasseProdotto\\ClasseProdotto.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\classeprodotto\\classeprodotto\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFEDFA4-1A89-4376-8DF7-A4D58A56689E}|ClasseProdotto\\ClasseProdotto.csproj|solutionrelative:classeprodotto\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFEDFA4-1A89-4376-8DF7-A4D58A56689E}|ClasseProdotto\\ClasseProdotto.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\classeprodotto\\classeprodotto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFEDFA4-1A89-4376-8DF7-A4D58A56689E}|ClasseProdotto\\ClasseProdotto.csproj|solutionrelative:classeprodotto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Prodotto.cs",
               "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseProdotto\\ClasseProdotto\\Prodotto.cs",
               "RelativeDocumentMoniker": "ClasseProdotto\\Prodotto.cs",
               "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseProdotto\\ClasseProdotto\\Prodotto.cs",
               "RelativeToolTip": "ClasseProdotto\\Prodotto.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAABoPUsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAlwBkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T15:13:40.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseProdotto\\ClasseProdotto\\Program.cs",
               "RelativeDocumentMoniker": "ClasseProdotto\\Program.cs",
               "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseProdotto\\ClasseProdotto\\Program.cs",
               "RelativeToolTip": "ClasseProdotto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvycAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T15:11:28.843Z",
               "EditorCaption": ""
