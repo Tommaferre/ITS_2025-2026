@@ -51,7 +51,7 @@ function guessLetter(letter) {
     console.log(`You have ${maxGuesses - currentGuesses} guesses remaining.`);
 
     //check if in the guessedLetters array there aren't _ (that means that you find the word)
-    //the method includes chech if a value is in the array
+    //the method includes check if a value is in the array
     if (!guessedLetters.includes('_')) {
         console.log('Congratulations! You guessed the word!');
     }
