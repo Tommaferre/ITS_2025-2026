@@ -26,7 +26,7 @@ function getNumberSuffix(number) {
 }
 
 /*
- * Log each choice to the screen with the correct number suffix.
+ * Log each choice to the screen with the correct number suffix calling getNumberSuffix passing choiceNumber that is the parameter type number that the * function want.
  */
 for (let i = 0; i < topChoices1.length; i++) {
     const choiceNumber = i + 1;
