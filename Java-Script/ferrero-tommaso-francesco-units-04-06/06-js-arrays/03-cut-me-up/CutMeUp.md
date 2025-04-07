@@ -73,4 +73,3 @@ console.log(colors); // ['red', 'yellow', 'purple', 'blue', 'green']
 
 - You want to remove, add, or replace items in the original array.
 - You need to update your array in place.
-
