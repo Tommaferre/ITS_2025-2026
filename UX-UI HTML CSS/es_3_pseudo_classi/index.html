@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table {
+            border-collapse: collapse;
+            margin: 20px;
+        }
+        
+        td {
+            width: 20px;
+            height: 20px;
+        }
+        
+        /* Bandiera italiana */
+        .italia td:nth-child(1),
+        .italia td:nth-child(2),
+        .italia td:nth-child(3) {
+            background-color: green;
+        }
+        
+        .italia td:nth-child(4),
+        .italia td:nth-child(5),
+        .italia td:nth-child(6) {
+            background-color: white;
+        }
+        
+        .italia td:nth-child(7),
+        .italia td:nth-child(8),
+        .italia td:nth-child(9) {
+            background-color: red;
+        }
+        
+        /* Bandiera americana */
+        .usa tr:nth-child(-n+4) td:nth-child(-n+5) {
+            background-color: blue;
+        }
+        
+        .usa tr:nth-child(odd) td {
+            background-color: red;
+        }
+        
+        .usa tr:nth-child(even) td {
+            background-color: white;
+        }
+        
+        .usa tr:nth-child(-n+4) td:nth-child(-n+5) {
+            background-color: blue;
+        }
+        
+        /* Bandiera che cambia (Francia -> Germania) */
+        .cambio td:nth-child(1),
+        .cambio td:nth-child(2),
+        .cambio td:nth-child(3) {
+            background-color: blue;
+        }
+        
+        .cambio td:nth-child(4),
+        .cambio td:nth-child(5),
+        .cambio td:nth-child(6) {
+            background-color: white;
+        }
+        
+        .cambio td:nth-child(7),
+        .cambio td:nth-child(8),
+        .cambio td:nth-child(9) {
+            background-color: red;
+        }
+        
+        .cambio:hover td:nth-child(1),
+        .cambio:hover td:nth-child(2),
+        .cambio:hover td:nth-child(3) {
+            background-color: black;
+        }
+        
+        .cambio:hover td:nth-child(4),
+        .cambio:hover td:nth-child(5),
+        .cambio:hover td:nth-child(6) {
+            background-color: red;
+        }
+        
+        .cambio:hover td:nth-child(7),
+        .cambio:hover td:nth-child(8),
+        .cambio:hover td:nth-child(9) {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <table class="italia">
+        <tbody>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+        </tbody>
+    </table>
+    
+    <table class="usa">
+        <tbody>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+        </tbody>
+    </table>
+    
+    <table class="cambio">
+        <tbody>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+            <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+        </tbody>
+    </table>
+</body>
+</html>
