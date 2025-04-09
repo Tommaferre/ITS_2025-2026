@@ -4,7 +4,6 @@ return {string} reversed
 returns the string in reverse order
 */
 
-
 function Reverse(str) {
     let reversed = ""; 
     let length = str.length;

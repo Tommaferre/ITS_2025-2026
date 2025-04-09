@@ -4,7 +4,7 @@ function oneToMany(noun, number) {
         'child': 'children',
         'person': 'people',
         'sheep': 'sheep',
-        'geese': 'goose'
+        'goose': 'geese'
     };
     let pluralNoun;
     if (number === 1) {

@@ -1,4 +1,4 @@
-/**
+/*
  * parameter {string} = str 
  * returns {string} 
  * Replaces all occurrences of the first character in a string with '*', except for the first character itself.

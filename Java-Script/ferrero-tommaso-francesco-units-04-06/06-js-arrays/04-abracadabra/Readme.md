@@ -6,7 +6,8 @@ Tommaso Ferrero SWD
 
 ## Test of the exercise
 
-### Abracadabra  
+### Abracadabra
+
 ● Code 3 different solutions to change the 4th letter in the following string "Abracadabra" into an "X"  
 ● Each solution should be in a separate folder.  
 ○ Name them solution-1, solution-2, etc.  

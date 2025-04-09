@@ -14,5 +14,5 @@ Palindrome
 
 ## Description of the solution for the exercise
 
-This exercise takes the function in the previous exercise and with another function check if the reversed string it's equal to the input string.
+This exercise takes the function in the previous exercise and, with another function, check if the reversed string it's equal to the input string.
 If it's equal it means that it's a palindrome word if not it isn't.
