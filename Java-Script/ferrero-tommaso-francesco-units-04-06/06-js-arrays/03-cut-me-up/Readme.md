@@ -1,4 +1,4 @@
-# NOME ESERCIZIO
+# CUT ME UP
 
 ## Author
 

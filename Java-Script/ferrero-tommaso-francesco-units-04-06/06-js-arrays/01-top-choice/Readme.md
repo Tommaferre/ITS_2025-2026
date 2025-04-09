@@ -6,7 +6,8 @@ Tommaso Ferrero SWD
 
 ## Test of the exercise
 
-Top choice  
+### Top choice
+  
 Create an array to hold your top choices (colors, pets, books, whatever).  
 For each choice, log to the screen a string like: "My #1 choice is blue."  
 
