@@ -9,32 +9,42 @@
  * @returns {{ valid: boolean, number: string, error?: string }}
  */
 function validateCreditCard(cardNumber) {
-    const cleaned = cardNumber.replace(/-/g, '');
+    const cleaned = cardNumber.replace(/-/g, '');//this line permit to work only with numbers (g = global --> all not only the first, '' it's the empty string that it's substituted to the - )
   
+    // Must be 16 digits
     if (cleaned.length !== 16) {
       return { valid: false, number: cardNumber, error: 'wrong length' };
     }
   
+    //String composed only by one or more number, there is the ! at the beginning to negate the condition, so if the stirng isn't compposed only by number return an error
     if (!/^\d+$/.test(cleaned)) {
       return { valid: false, number: cardNumber, error: 'invalid characters' };
     }
   
+    //transform the cleaned string in an array of numbers, (map(Number) converts every character in a number, takes a function for parameter and return an array, it's an iterative method so it calls the function one time for every element)
     const digits = cleaned.split('').map(Number);
+
+    //control if all the digits are equals to the first one element
     const allSame = digits.every(d => d === digits[0]);
     if (allSame) {
       return { valid: false, number: cardNumber, error: 'only one type of digit' };
     }
   
+    //control if the last digit (the 16°) is an odd number (!== not an even number)
     if (digits[15] % 2 !== 0) {
       return { valid: false, number: cardNumber, error: 'odd final digit' };
     }
   
-    const sum = digits.reduce((a, b) => a + b, 0);
+    // sum of the digits of the card 
+    let sum = 0;
+    for (let digit of digits) {
+      sum += digit;
+    }
     if (sum <= 16) {
       return { valid: false, number: cardNumber, error: 'sum too small' };
+    } else {
+        return { valid: true, number: cardNumber };
     }
-  
-    return { valid: true, number: cardNumber };
   }
   
   /**

@@ -51,4 +51,4 @@ For each card check, print out the result to the log in this format:
 
 ## Description of the solution of the exercise
 
-.
+The solution implements a function called validateCreditCard that performs several checks on the input credit card number. It first removes any dashes and then verifies the length and that all characters are digits. It ensures that the number contains at least two different digits, the last digit is even, and the sum of all digits is greater than 16. If any of these conditions fail, the function returns an object indicating the card is invalid along with an appropriate error message. Otherwise, it returns an object confirming the card is valid. The function printResult is used to display the validation results in a clear, formatted way.
