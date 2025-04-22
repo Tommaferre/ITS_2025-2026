@@ -1,34 +1,39 @@
-const recipes = [
-    {
-        title: "Margherita Pizza",
-        servings: 2,
-        ingredients: ["Pizza Dough", "Tomatoes", "Mozzarella", "Basil", "Olive Oil"]
-    }
-];
+/**
+ * Recipe Exercise
+ * @typedef {Object} Recipe
+ * @property {string} title - The title of the recipe.
+ * @property {number} servings - Number of servings the recipe provides.
+ * @property {string[]} ingredients - List of ingredients needed for the recipe.
+ */
 
-function displayRecipe(recipe) {
-    const container = document.getElementById('recipeContainer');
-    const recipeCard = document.createElement('div');
-    recipeCard.className = 'recipe-card';
-
-    recipeCard.innerHTML = `
-        <div class="title">${recipe.title}</div>
-        <div class="servings">Serves: ${recipe.servings}</div>
-        <h3>Ingredients:</h3>
-        <ul class="ingredients">
-            ${recipe.ingredients.map(ing => `<li>${ing}</li>`).join('')}
-        </ul>
-    `;
-
-    container.appendChild(recipeCard);
-    
-    // Console output
-    console.log(`Recipe: ${recipe.title}`);
-    console.log(`Servings: ${recipe.servings}`);
-    console.log('Ingredients:');
-    recipe.ingredients.forEach(ing => console.log(`- ${ing}`));
-    console.log('-------------------');
-}
-
-// Display all recipes
-recipes.forEach(recipe => displayRecipe(recipe));
+/**
+ * Favorite recipe object containing information about Pizza Margherita.
+ * @type {Recipe}
+ */
+const favoriteRecipe = {
+    title: "Pizza Margherita",
+    servings: 1,
+    ingredients: [
+      "Pizza dough",
+      "Tomato sauce",
+      "Fresh mozzarella",
+      "Fresh basil leaves",
+      "Olive oil",
+      "Salt"
+    ]
+  };
+  
+  /**
+   * Logs the recipe details to the console.
+   */
+  function logRecipe(recipe) {
+    console.log("Recipe Title: " + recipe.title);
+    console.log("Servings: " + recipe.servings);
+    console.log("Ingredients:");
+    recipe.ingredients.forEach(ingredient => {
+      console.log(ingredient);
+    });
+  }
+  
+  // Call the function to display the recipe
+  logRecipe(favoriteRecipe);

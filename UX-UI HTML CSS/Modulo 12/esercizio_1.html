@@ -1,0 +1,364 @@
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esempio di elementi HTML</title>
+    <style>
+        /* Stili generali e reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        body {
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Stili per elementi semantici */
+        .page-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 20px;
+            border-bottom: 5px solid #e74c3c;
+            text-align: center;
+        }
+
+        .header-title {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+
+        .header-subtitle {
+            font-style: italic;
+            font-weight: 300;
+        }
+
+        main {
+            padding: 30px;
+            background-color: white;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .content-section {
+            margin-bottom: 40px;
+        }
+
+        .section-title {
+            color: #2980b9;
+            margin-bottom: 15px;
+            border-left: 4px solid #2980b9;
+            padding-left: 10px;
+        }
+
+        .text-container {
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+
+        #image-container {
+            background-color: #f9f9f9;
+            border: 1px solid #ddd;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        /* Tutte le immagini non possono superare il loro contenitore */
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .demo-image {
+            border: 3px solid #3498db;
+            border-radius: 5px;
+        }
+
+        footer {
+            background-color: #34495e;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 0.9em;
+            margin-top: 30px;
+        }
+
+        .footer-links {
+            margin-top: 15px;
+        }
+
+        .footer-link {
+            color: #ecf0f1;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        /* Stili per gli span */
+        .highlight {
+            background-color: #fdfd96;
+            padding: 2px 5px;
+            border-radius: 3px;
+            font-weight: bold;
+        }
+
+        .important {
+            color: #e74c3c;
+            font-weight: bold;
+            border-bottom: 1px dotted #e74c3c;
+        }
+
+        #special-text {
+            background-color: #d5f5e3;
+            padding: 3px 8px;
+            border-radius: 15px;
+            font-style: italic;
+            box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+        }
+
+        .decorative {
+            font-family: 'Georgia', serif;
+            letter-spacing: 1px;
+            color: #8e44ad;
+            text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1);
+        }
+        .header-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .logo {
+            height: 150px;
+            margin: 0; 
+             display: block;
+        }
+
+        .navbar ul {
+            list-style: none;
+            display: flex;
+            gap: 20px;
+        }
+
+        .navbar a {
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+
+        .navbar a:hover {
+            color: #e67e22;
+        }
+         /* Contenitore con scroll orizzontale */
+         .correlati-container {
+            display: flex;
+            overflow-x: auto;
+            overflow-y: hidden;
+            gap: 15px;
+            padding: 10px 0;
+            scrollbar-width: thin;
+            scrollbar-color: #3498db #f0f0f0;
+            -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+        }
+
+
+        /* Stilizzazione della scrollbar */
+        .correlati-container::-webkit-scrollbar {
+            height: 6px;
+        }
+
+
+        .correlati-container::-webkit-scrollbar-track {
+            background: #f0f0f0;
+            border-radius: 10px;
+        }
+
+
+        .correlati-container::-webkit-scrollbar-thumb {
+            background: #3498db;
+            border-radius: 10px;
+        }
+
+        /* Stile delle card prodotto */
+        .product-card {
+            min-width: 160px;
+            width: 160px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            padding: 12px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            cursor: pointer;
+        }
+
+
+        .product-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
+        }
+
+
+        .product-card img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+
+        .product-title {
+            font-size: 0.9em;
+            color: #2c3e50;
+            font-weight: 500;
+            margin-bottom: 5px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="page-container">
+        <!-- Header con elementi semantici -->
+        <header id="main-header">
+            <div class="header-content">
+                <img src="logo.jpg" alt="Logo" class="logo">
+                <nav class="navbar">
+                    <ul>
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Discover</a></li>
+                    </ul>
+                </nav>
+            </div>
+            <h1 class="header-title">Esempio di HTML Semantico</h1>
+            <p class="header-subtitle">Utilizzo di elementi HTML5 e CSS</p>
+        </header>
+
+        <!-- Content area principale -->
+<!-- Content area principale -->
+<main>
+    <section class="content-section">
+        <h2 class="section-title">Elementi Semantici HTML5</h2>
+        <div class="text-container">
+            <p>In questa pagina stiamo usando diversi <span class="highlight">elementi semantici HTML5</span> come
+            header, main, section, article e footer. Questi elementi aiutano a definire la struttura della pagina
+            in modo più significativo rispetto all'utilizzo di semplici <span class="important">div</span>.</p>
+           
+            <p>Gli elementi semantici rendono il codice <span id="special-text">più leggibile e accessibile</span>,
+            migliorando anche il posizionamento sui motori di ricerca.</p>
+        </div>
+    </section>
+
+
+    <section class="content-section">
+        <h2 class="section-title">Utilizzo di span</h2>
+        <div class="text-container">
+            <p>Gli elementi <span class="highlight">span</span> sono contenitori inline che possono essere utilizzati per
+            applicare stili a porzioni di testo senza interrompere il flusso del paragrafo.</p>
+           
+            <p>Come puoi vedere, abbiamo applicato <span class="important">diversi stili</span> a vari span in questa pagina,
+            utilizzando classi e ID per differenziarli. È anche possibile creare effetti <span class="decorative">decorativi</span>
+            per rendere il testo più interessante visivamente.</p>
+        </div>
+    </section>
+
+
+    <section class="content-section">
+        <h2 class="section-title">Immagini</h2>
+        <div id="image-container">
+            <img src="claudione.jpg" alt="Immagine dimostrativa" class="demo-image" width="600" height="400">
+            <p>Questa immagine è contenuta in un div con id "image-container" e ha una classe "demo-image"</p>
+        </div>
+        <div class="text-container">
+            <p>Abbiamo impostato regole CSS per assicurarci che <span class="important">tutte le immagini</span> rimangano
+            sempre contenute all'interno dei loro elementi genitori, indipendentemente dalle dimensioni originali.</p>
+        </div>
+    </section>
+
+
+    <!-- Sezione Correlati con scroll orizzontale -->
+    <section class="correlati-section">
+        <div class="correlati-header">
+            <h3 class="correlati-title">Correlati</h3>
+            <a href="#" class="mostra-altri">Mostra altri</a>
+        </div>
+        <div class="correlati-container">
+            <!-- Card prodotto 1 -->
+            <div class="product-card">
+                <img src="claudione.jpg" alt="Titolo prodotto">
+                <h4 class="product-title">Titolo prodotto</h4>
+            </div>
+           
+            <!-- Card prodotto 2 -->
+            <div class="product-card">
+                <img src="claudione.jpg" alt="Titolo prodotto">
+                <h4 class="product-title">Titolo prodotto</h4>
+            </div>
+           
+            <!-- Card prodotto 3 -->
+            <div class="product-card">
+                <img src="claudione.jpg" alt="Titolo prodotto">
+                <h4 class="product-title">Titolo prodotto</h4>
+            </div>
+           
+            <!-- Card prodotto 4 -->
+            <div class="product-card">
+                <img src="claudione.jpg" alt="Titolo prodotto">
+                <h4 class="product-title">Titolo prodotto</h4>
+            </div>
+           
+            <!-- Card prodotto 5 -->
+            <div class="product-card">
+                <img src="claudione.jpg" alt="Titolo prodotto">
+                <h4 class="product-title">Titolo prodotto</h4>
+            </div>
+           
+            <!-- Card prodotto 6 -->
+            <div class="product-card">
+                <img src="claudione.jpg" alt="Titolo prodotto">
+                <h4 class="product-title">Titolo prodotto</h4>
+            </div>
+           
+            <!-- Card prodotto 7 -->
+            <div class="product-card">
+                <img src="claudione.jpg" alt="Titolo prodotto">
+                <h4 class="product-title">Titolo prodotto</h4>
+            </div>
+           
+            <!-- Card prodotto 8 -->
+            <div class="product-card">
+                <img src="claudione.jpg" alt="Titolo prodotto">
+                <h4 class="product-title">Titolo prodotto</h4>
+            </div>
+        </div>
+    </section>
+</main>
+
+
+<!-- Footer -->
+<footer id="main-footer">
+    <p>Questo è un esempio di utilizzo di elementi HTML semantici e non semantici con applicazione di stili CSS.</p>
+    <div class="footer-links">
+        <a href="#" class="footer-link">Home</a>
+        <a href="#" class="footer-link">Info</a>
+        <a href="#" class="footer-link">Contatti</a>
+    </div>
+</footer>
+</div>
+</body>
+</html>
