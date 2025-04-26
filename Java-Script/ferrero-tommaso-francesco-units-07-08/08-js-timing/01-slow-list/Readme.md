@@ -1,4 +1,4 @@
-# NOME ESERCIZIO
+# SLOW LIST
 
 ## Author
 

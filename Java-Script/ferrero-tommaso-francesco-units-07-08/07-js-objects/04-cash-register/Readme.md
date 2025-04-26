@@ -23,7 +23,7 @@ let cartForParty = {
  proteinShake: "22.36"
 };
 // Output
-cashRegister(cartForParty)); // 60.55
+cashRegister(cartForParty); // 60.55
 ```
 
 ## Description of the solution of the exercise
