@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation Exercise</title>
+    <style>
+        .moving-box {
+            width: 10px;
+            height: 10px;
+            background-color: #333;
+            position: absolute;
+            transition: transform 0.5s ease;
+            z-index: 10;
+        }
+
+        .moving-box:hover {
+            transform: translateY(500px);
+        }
+
+        .custom-button {
+            padding: 10px 20px;
+            background-color: blue;
+            color: white;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.4s linear;
+            position: relative;
+            margin-top: 60px;
+        }
+
+        .custom-button:hover {
+            background-color: lightblue;
+        }
+
+        .custom-button:active {
+            background-color: red;
+            transition: background-color 0.5s ease-out;
+        }
+
+        .overlay-container {
+            position: relative;
+            width: 200px;
+            margin-top: 20px;
+        }
+
+        .overlay-box {
+            width: 200px;
+            height: 100px;
+            background-color: #666;
+            position: absolute;
+            top: 0;
+            transition: left 3s ease,opacity 3s ease;
+            opacity: 1;
+        }
+
+        .overlay-box:hover {
+            opacity: 0;
+        }
+
+        .hidden-text {
+            padding: 40px 0;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="moving-box"><img src = "../claudione.jpg" width="75px"></div>
+    <button class="custom-button">Button</button>
+    <hr>
+    <div class="overlay-container">
+        <div class="overlay-box"></div>
+        <div class="hidden-text">AAAAAAAAAAAA</div>
+    </div>
+</body>
+</html>
