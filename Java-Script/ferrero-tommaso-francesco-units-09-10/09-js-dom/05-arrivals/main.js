@@ -45,9 +45,6 @@ document.addEventListener('DOMContentLoaded', () => {
     updateCurrentTime();
     setInterval(updateCurrentTime, 1000);
     
-    // Generate initial flights
-    generateInitialFlights(5);
-    
     // Update flights every 10 seconds
     setInterval(() => {
         updateFlights();
@@ -55,13 +52,11 @@ document.addEventListener('DOMContentLoaded', () => {
         updateLastUpdated();
     }, UPDATE_INTERVAL);
     
-    // Add new flight every 30 seconds
+    // Add new flight every 10 seconds
     setInterval(() => {
-        if (Math.random() > 0.3) { // 70% chance to add a new flight
             addNewFlight();
             renderFlights();
-        }
-    }, 30000);
+    }, 10000);
     
     // Initial render
     renderFlights();
