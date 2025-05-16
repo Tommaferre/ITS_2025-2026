@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalogo Film - Nuovo Film</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="images/logo.png" alt="Logo" class="logo">
+        </div>
+        <nav>
+            <ul>
+                <li class="active"><a href="#">CATALOGO FILM</a></li>
+                <li><a href="#">REPORTISTICA</a></li>
+                <li><a href="#">GESTIONE UTENTI</a></li>
+            </ul>
+        </nav>
+        <div class="user-info">
+            <div class="user">
+                <img src="images/user-avatar.png" alt="User" class="user-avatar">
+                <span>Luca Romano</span>
+            </div>
+            <a href="#" class="logout-icon">
+                <i class="fas fa-sign-out-alt"></i>
+            </a>
+        </div>
+    </header>
+
+    <main class="add-movie-page">
+        <div class="breadcrumb">
+            <a href="index.html">Catalogo film</a> &gt; <span>Nuovo film</span>
+        </div>
+
+        <form class="add-movie-form">
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="movie-title">Titolo film</label>
+                    <input type="text" id="movie-title" name="movie-title">
+                </div>
+                <div class="form-group">
+                    <label for="movie-genre">Genere</label>
+                    <select id="movie-genre" name="movie-genre">
+                        <option value="">Seleziona genere</option>
+                        <option value="animation">Animazione</option>
+                        <option value="adventure">Avventura</option>
+                        <option value="action">Azione</option>
+                        <option value="comedy">Commedia</option>
+                        <option value="drama">Drammatico</option>
+                        <option value="horror">Horror</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group full-width">
+                    <label for="movie-plot">Trama</label>
+                    <textarea id="movie-plot" name="movie-plot" rows="5"></textarea>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group">
+                    <label for="movie-duration">Durata</label>
+                    <input type="text" id="movie-duration" name="movie-duration">
+                </div>
+                <div class="form-group">
+                    <label for="movie-year">Anno uscita</label>
+                    <input type="text" id="movie-year" name="movie-year">
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-group full-width">
+                    <label>Lingue in cui è disponibile il film</label>
+                    <div class="language-options">
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="lang-it" name="lang-it" checked>
+                            <label for="lang-it">Italiano</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="lang-en" name="lang-en">
+                            <label for="lang-en">Inglese</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="lang-fr" name="lang-fr">
+                            <label for="lang-fr">Francese</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="lang-de" name="lang-de">
+                            <label for="lang-de">Tedesco</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="checkbox" id="lang-es" name="lang-es" checked>
+                            <label for="lang-es">Spagnolo</label>
+                        </div>
+                        <div class="checkbox-group">
+                            <input type="text" id="lang-other" name="lang-other" placeholder="Altro">
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-section">
+                <h3>Regia</h3>
+                <div class="director-section">
+                    <div class="director-row">
+                        <div class="form-group">
+                            <label for="director-name">Nome</label>
+                            <input type="text" id="director-name" name="director-name">
+                        </div>
+                        <div class="form-group">
+                            <label for="director-surname">Cognome</label>
+                            <input type="text" id="director-surname" name="director-surname">
+                        </div>
+                        <div class="director-actions">
+                            <button type="button" class="action-btn add-btn"><i class="fas fa-plus"></i></button>
+                        </div>
+                    </div>
+                    <div class="director-row">
+                        <div class="form-group">
+                            <input type="text" value="Tim" disabled>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" value="Burton" disabled>
+                        </div>
+                        <div class="director-actions">
+                            <button type="button" class="action-btn delete-btn"><i class="fas fa-trash-alt"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-section">
+                <h3>Cast principale</h3>
+                <div class="cast-section">
+                    <div class="cast-row">
+                        <div class="form-group">
+                            <label for="actor-name">Nome</label>
+                            <input type="text" id="actor-name" name="actor-name">
+                        </div>
+                        <div class="form-group">
+                            <label for="actor-surname">Cognome</label>
+                            <input type="text" id="actor-surname" name="actor-surname">
+                        </div>
+                        <div class="form-group">
+                            <label for="actor-role">Ruolo</label>
+                            <input type="text" id="actor-role" name="actor-role">
+                        </div>
+                        <div class="cast-actions">
+                            <button type="button" class="action-btn add-btn"><i class="fas fa-plus"></i></button>
+                        </div>
+                    </div>
+                    <div class="cast-row">
+                        <div class="form-group">
+                            <input type="text" value="Jhonny" disabled>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" value="Deep" disabled>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" value="Edward" disabled>
+                        </div>
+                        <div class="cast-actions">
+                            <button type="button" class="action-btn delete-btn"><i class="fas fa-trash-alt"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-section">
+                <h3>Premi vinti</h3>
+                <div class="awards-section">
+                    <div class="award-row">
+                        <div class="form-group">
+                            <label for="award-year">Anno</label>
+                            <input type="text" id="award-year" name="award-year">
+                        </div>
+                        <div class="form-group">
+                            <label for="award-name">Premio</label>
+                            <input type="text" id="award-name" name="award-name">
+                        </div>
+                        <div class="award-actions">
+                            <button type="button" class="action-btn add-btn"><i class="fas fa-plus"></i></button>
+                        </div>
+                    </div>
+                    <div class="award-row">
+                        <div class="form-group">
+                            <input type="text" value="2021" disabled>
+                        </div>
+                        <div class="form-group">
+                            <input type="text" value="Deep" disabled>
+                        </div>
+                        <div class="award-actions">
+                            <button type="button" class="action-btn delete-btn"><i class="fas fa-trash-alt"></i></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-section">
+                <h3>Piattaforme di streaming in cui trovarlo</h3>
+                <div class="streaming-platforms">
+                    <button type="button" class="platform-btn">Netflix</button>
+                    <button type="button" class="platform-btn">Prime video</button>
+                    <button type="button" class="platform-btn">Disney Plus</button>
+                    <button type="button" class="platform-btn">Now TV</button>
+                    <button type="button" class="platform-btn">Apple TV</button>
+                    <button type="button" class="platform-btn">Discovery</button>
+                </div>
+            </div>
+
+            <div class="form-group cover-upload">
+                <label>Copertina</label>
+                <div class="cover-preview">
+                    <div class="cover-placeholder"></div>
+                    <span class="cover-count">0/255</span>
+                </div>
+            </div>
+
+            <div class="form-actions">
+                <button type="submit" class="submit-btn">Salva</button>
+                <button type="button" class="cancel-btn">Annulla</button>
+            </div>
+        </form>
+    </main>
+
+    <footer>
+        <p>copyright @45minutes</p>
+    </footer>
+</body>
+</html>
