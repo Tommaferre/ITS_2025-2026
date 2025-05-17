@@ -1,0 +1,342 @@
+:root {
+    --primary-color: #003366;
+    --secondary-color: #0077cc;
+    --light-color: #f0f8ff;
+    --accent-color: #ff9900;
+    --danger-color: #cc0000;
+    --success-color: #00aa00;
+    --warning-color: #ff6600;
+    --info-color: #0099cc;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: #f5f5f5;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 1rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.logo-icon {
+    font-size: 2rem;
+}
+
+.logo-text h1 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.logo-text p {
+    font-size: 0.9rem;
+    opacity: 0.8;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    margin-top: 1rem;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+nav a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+nav a.active {
+    background-color: var(--secondary-color);
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.arrivals-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 0 1rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--secondary-color);
+}
+
+.current-time {
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: var(--secondary-color);
+}
+
+.search-filter {
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.search-filter input {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    flex-grow: 1;
+}
+
+.search-filter select {
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    background-color: white;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+thead {
+    background-color: var(--secondary-color);
+    color: white;
+}
+
+th, td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #eee;
+}
+
+tbody tr:hover {
+    background-color: #f9f9f9;
+}
+
+.arrival-time {
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.flight-number {
+    font-family: monospace;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
+.airline-info {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.airline-logo {
+    width: 32px;
+    height: 32px;
+    background-color: #eee;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    color: var(--primary-color);
+}
+
+.origin-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.origin-city {
+    font-weight: 600;
+}
+
+.origin-code {
+    font-size: 0.8rem;
+    color: #666;
+}
+
+.status {
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    font-weight: 500;
+    font-size: 0.9rem;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.status-scheduled {
+    background-color: #e6f2ff;
+    color: var(--info-color);
+}
+
+.status-on-time {
+    background-color: #e6ffe6;
+    color: var(--success-color);
+}
+
+.status-boarding {
+    background-color: #fff2e6;
+    color: var(--warning-color);
+}
+
+.status-delayed {
+    background-color: #ffe6e6;
+    color: var(--danger-color);
+}
+
+.status-arrived {
+    background-color: #e6ffe6;
+    color: var(--success-color);
+}
+
+.status-diverted {
+    background-color: #ffe6cc;
+    color: #cc6600;
+}
+
+.status-cancelled {
+    background-color: #f2f2f2;
+    color: #666;
+}
+
+.empty-message {
+    text-align: center;
+    padding: 2rem;
+    color: #666;
+    font-style: italic;
+}
+
+.gate-terminal {
+    display: flex;
+    flex-direction: column;
+}
+
+.gate {
+    font-weight: 600;
+}
+
+.terminal {
+    font-size: 0.8rem;
+    color: #666;
+}
+
+footer {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 2rem 1rem;
+    margin-top: 2rem;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
+.footer-section {
+    flex: 1 1 300px;
+}
+
+.footer-section h3 {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+
+.footer-section ul {
+    list-style: none;
+}
+
+.footer-section ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-section a {
+    color: #ccc;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.footer-section a:hover {
+    color: white;
+}
+
+.copyright {
+    text-align: center;
+    padding-top: 2rem;
+    color: #ccc;
+    font-size: 0.9rem;
+}
+
+.flight-row {
+    transition: all 0.3s ease;
+    animation: fadeIn 0.5s ease;
+}
+
+.flight-row.removing {
+    animation: fadeOut 0.5s ease forwards;
+}
+
+.flight-row.delayed td {
+    background-color: rgba(255, 230, 230, 0.3);
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeOut {
+    from { opacity: 1; transform: translateY(0); }
+    to { opacity: 0; transform: translateY(-10px); }
+}
+
+@media (max-width: 768px) {
+    .logo-text h1 {
+        font-size: 1.2rem;
+    }
+
+    nav ul {
+        flex-wrap: wrap;
+    }
+
+    th, td {
+        padding: 0.5rem;
+        font-size: 0.9rem;
+    }
+
+    .gate-terminal, .status {
+        font-size: 0.8rem;
+    }
+}

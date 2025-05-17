@@ -21,23 +21,23 @@ const intervalId = setInterval(() => {
     celsiusToFahrenheit(currentTemp);
     currentTemp++;
 
-    // Stop the interval when temperature exceeds 100
-    if (currentTemp > 100) {
-        clearInterval(intervalId);
-    }
-}, 1000);
+    // Stop the interval when temperature exceeds 100  
+    if (currentTemp > 100) {  
+        clearInterval(intervalId);  
+    }  
+}, 1000);  
 
-// --- Using setTimeout ---
+// --- Using setTimeout ---  
 
-/**
- * Prints temperatures from 0 to 100 using recursive setTimeout
- * @param {number} temp - The current temperature
- */
-function printTempsWithTimeout(temp) {
-    if (temp > 100) {
-        console.log("Finish printing, here you have all the conversion of °C in fahrenheit!");
-        return; // Stop when temperature is greater than 100
-    }
+/**  
+ * Prints temperatures from 0 to 100 using recursive setTimeout  
+ * @param {number} temp - The current temperature  
+ */  
+function printTempsWithTimeout(temp) {  
+    if (temp > 100) {  
+        console.log("Finish printing, here you have all the conversion of °C in fahrenheit!");  
+        return; // Stop when temperature is greater than 100  
+    }  
 
     celsiusToFahrenheit(temp);
 

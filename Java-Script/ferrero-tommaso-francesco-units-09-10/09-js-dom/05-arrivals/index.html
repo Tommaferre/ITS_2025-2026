@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turin Airport - Arrivals</title>
+    <meta name="description" content="Live arrivals information for Turin Airport">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <i class="fas fa-plane-arrival"></i>
+                <h1>Turin International Airport</h1>
+            </div>
+            <div class="current-time" id="current-time"></div>
+        </header>
+
+        <div class="arrivals-container">
+            <div class="title-bar">
+                <h2>Arrivals</h2>
+                <div class="last-updated">Last updated: <span id="last-updated">Just now</span></div>
+            </div>
+
+            <div class="table-container">
+                <table class="arrivals-table">
+                    <thead>
+                        <tr>
+                            <th>Flight</th>
+                            <th>Origin</th>
+                            <th>Airline</th>
+                            <th>Scheduled</th>
+                            <th>Estimated</th>
+                            <th>Terminal</th>
+                            <th>Status</th>
+                        </tr>
+                    </thead>
+                    <tbody id="arrivals-body">
+                        <!-- Flight data will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+
+            <div id="no-flights-message" class="no-flights">
+                No arrivals scheduled at this time. Please check back later.
+            </div>
+        </div>
+
+        <footer>
+            <p>© 2025 Turin International Airport. All flights information is simulated for demonstration purposes.</p>
+        </footer>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

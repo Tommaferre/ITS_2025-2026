@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animation Exercise</title>
+    <style>
+        .box {
+            width: 100px;
+            height: 100px;
+            margin: 20px;
+        }
+
+        #boxA {
+            animation: bounce 1s ease-in-out infinite;
+        }
+
+        #boxB {
+            animation: rotate 3s linear 2;
+        }
+
+        #boxC {
+            animation: fadeScale 2s linear 5;
+        }
+
+        @keyframes bounce {
+            0% { transform: translateY(0); }
+            50% { transform: translateY(-80px); }
+            100% { transform: translateY(0); }
+        }
+
+        @keyframes rotate {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @keyframes fadeScale {
+            0% { 
+                opacity: 1;
+                transform: scale(1);
+            }
+            50% { 
+                opacity: 0.3;
+                transform: scale(1.2);
+            }
+            100% { 
+                opacity: 0.8;
+                transform: scale(1.4);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="boxA" class="box"><img src="../claudione.jpg" width="100px" height="100px"></div>
+    <div id="boxB" class="box"><img src="../claudione.jpg" width="100px" height="100px"></div>
+    <div id="boxC" class="box"><img src="../claudione.jpg" width="100px" height="100px"></div>
+</body>
+</html>

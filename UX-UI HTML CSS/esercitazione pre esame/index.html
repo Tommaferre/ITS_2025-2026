@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalogo Film - Vista Griglia</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="logo-container">
+            <img src="images/logo.png" alt="Logo" class="logo">
+        </div>
+        <nav>
+            <ul>
+                <li class="active"><a href="#">CATALOGO FILM</a></li>
+                <li><a href="#">REPORTISTICA</a></li>
+                <li><a href="#">GESTIONE UTENTI</a></li>
+            </ul>
+        </nav>
+        <div class="user-info">
+            <div class="user">
+                <img src="images/profile-default.svg" alt="User" class="user-avatar">
+                <span>Luca Romano</span>
+            </div>
+            <a href="#" class="logout-icon">
+                <i class="fas fa-sign-out-alt"></i>
+            </a>
+        </div>
+    </header>
+
+    <main>
+        <section class="page-title">
+            <h1>Catalogo film</h1>
+        </section>
+
+        <section class="filters">
+            <div class="search-filters">
+                <div class="filter-group">
+                    <label for="title">Titolo film</label>
+                    <input type="text" id="title" placeholder="Cerca per titolo...">
+                </div>
+                <div class="filter-group">
+                    <label for="year">Anno uscita</label>
+                    <input type="text" id="year" placeholder="Anno...">
+                </div>
+                <div class="filter-group">
+                    <label for="actor">Attore o Regia</label>
+                    <input type="text" id="actor" placeholder="Cerca per attore o regista...">
+                </div>
+                <button class="reset-btn">RESET FILTRI <i class="fas fa-times-circle"></i></button>
+            </div>
+            
+            <div class="category-filters">
+                <button class="category-btn active">Tutti</button>
+                <button class="category-btn">Novità inserite</button>
+                <button class="category-btn">Animazione</button>
+                <button class="category-btn">Avventura</button>
+                <button class="category-btn">Biografico</button>
+                <button class="category-btn">Commedia</button>
+                <button class="category-btn">Drammatico</button>
+                <button class="category-btn">Fantascienza</button>
+                <button class="category-btn">Fantasy</button>
+                <button class="category-btn">Giallo</button>
+                <button class="category-btn">Horror</button>
+                <button class="category-btn">Musical</button>
+            </div>
+        </section>
+
+        <section class="results-header">
+            <div class="results-count">
+                <span>20 Elementi</span>
+            </div>
+            <div class="view-options">
+                <label for="sort">Ordina per</label>
+                <select id="sort">
+                    <option value="title">Titolo</option>
+                    <option value="year">Anno</option>
+                    <option value="director">Regista</option>
+                </select>
+                <div class="view-buttons">
+                    <a href="list-view.html" class="view-btn list-view">
+                        <i class="fas fa-list"></i>
+                    </a>
+                    <a href="index.html" class="view-btn grid-view active">
+                        <i class="fas fa-th"></i>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="movie-grid">
+            <!-- Movie Card 1 -->
+            <div class="movie-card">
+                <div class="movie-image">
+                    <img src="https://m.media-amazon.com/images/I/71oWfDDSm0L._AC_UF1000,1000_QL80_.jpg" alt="Lilo & Stitch">
+                    <span class="movie-tag">Novità</span>
+                    <span class="movie-genre">Animazione</span>
+                </div>
+                <div class="movie-info">
+                    <h3>Lilo & Stitch</h3>
+                    <p class="director">Dean Fleischer Camp</p>
+                    <p class="year">2025</p>
+                    <p class="duration"><i class="far fa-clock"></i> 108'</p>
+                </div>
+                <div class="movie-actions">
+                    <button class="action-btn view-btn"><i class="far fa-eye"></i></button>
+                    <button class="action-btn edit-btn"><i class="far fa-edit"></i></button>
+                    <button class="action-btn delete-btn"><i class="far fa-trash-alt"></i></button>
+                </div>
+            </div>
+
+            <!-- Movie Card 2 -->
+            <div class="movie-card">
+                <div class="movie-image">
+                    <img  src="https://pad.mymovies.it/filmclub/2023/11/247/locandinapg3.jpg" alt="Mickey 17">
+                    <span class="movie-tag">Novità</span>
+                    <span class="movie-genre">Adventure</span>
+                </div>
+                <div class="movie-info">
+                    <h3>Mickey 17</h3>
+                    <p class="director">Bong Joon Ho</p>
+                    <p class="year">2025</p>
+                    <p class="duration"><i class="far fa-clock"></i> 137'</p>
+                </div>
+                <div class="movie-actions">
+                    <button class="action-btn view-btn"><i class="far fa-eye"></i></button>
+                    <button class="action-btn edit-btn"><i class="far fa-edit"></i></button>
+                    <button class="action-btn delete-btn"><i class="far fa-trash-alt"></i></button>
+                </div>
+            </div>
+
+            <!-- Add more movie cards as needed -->
+            <!-- Movie Card 3 -->
+            <div class="movie-card">
+                <div class="movie-image">
+                    <img src="https://m.media-amazon.com/images/M/MV5BMmE4YTQxMjctMWFlZC00OTY5LWJiNTctZjFhNTJlMmIxMmViXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" alt="Fight or Flight">
+                    <span class="movie-genre">Action</span>
+                </div>
+                <div class="movie-info">
+                    <h3>Fight or Flight</h3>
+                    <p class="director">James Madigan</p>
+                    <p class="year">2024</p>
+                    <p class="duration"><i class="far fa-clock"></i> 102'</p>
+                </div>
+                <div class="movie-actions">
+                    <button class="action-btn view-btn"><i class="far fa-eye"></i></button>
+                    <button class="action-btn edit-btn"><i class="far fa-edit"></i></button>
+                    <button class="action-btn delete-btn"><i class="far fa-trash-alt"></i></button>
+                </div>
+            </div>
+
+            <!-- Movie Card 4 -->
+            <div class="movie-card">
+                <div class="movie-image">
+                    <img src="https://pad.mymovies.it/filmclub/2007/02/131/locandina.jpg" alt="Il cavaliere oscuro">
+                    <span class="movie-genre">Action</span>
+                </div>
+                <div class="movie-info">
+                    <h3>Il cavaliere oscuro</h3>
+                    <p class="director">Christopher Nolan</p>
+                    <p class="year">2008</p>
+                    <p class="duration"><i class="far fa-clock"></i> 153'</p>
+                </div>
+                <div class="movie-actions">
+                    <button class="action-btn view-btn"><i class="far fa-eye"></i></button>
+                    <button class="action-btn edit-btn"><i class="far fa-edit"></i></button>
+                    <button class="action-btn delete-btn"><i class="far fa-trash-alt"></i></button>
+                </div>
+            </div>
+        </section>
+
+        <section class="pagination">
+            <button class="page-btn prev"><i class="fas fa-chevron-left"></i></button>
+            <button class="page-btn active">1</button>
+            <button class="page-btn">2</button>
+            <button class="page-btn">3</button>
+            <button class="page-btn next"><i class="fas fa-chevron-right"></i></button>
+        </section>
+
+        <section class="footer-links">
+            <div class="links">
+                <a href="#">NUOVE USCITE</a>
+                <a href="#">CURIOSITÀ</a>
+                <a href="#">LINK IMDB</a>
+            </div>
+            <div class="social-links">
+                <a href="#" class="social-btn"><i class="fab fa-imdb"></i></a>
+                <a href="#" class="social-btn"><i class="fab fa-facebook-f"></i></a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>copyright @45minutes</p>
+    </footer>
+
+    <a href="add-movie.html" class="add-movie-btn">
+        <i class="fas fa-plus"></i>
+    </a>
+</body>
+</html>
