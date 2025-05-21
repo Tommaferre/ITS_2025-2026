@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\bin\Debug\net8.0\ClasseAutoAcceleraFrena.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\bin\Debug\net8.0\ClasseAutoAcceleraFrena.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\bin\Debug\net8.0\ClasseAutoAcceleraFrena.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\bin\Debug\net8.0\ClasseAutoAcceleraFrena.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\bin\Debug\net8.0\ClasseAutoAcceleraFrena.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\ClasseAutoAcceleraFrena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\ClasseAutoAcceleraFrena.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\ClasseAutoAcceleraFrena.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\ClasseAutoAcceleraFrena.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\ClasseAutoAcceleraFrena.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\ClasseAutoAcceleraFrena.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\refint\ClasseAutoAcceleraFrena.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\ClasseAutoAcceleraFrena.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\ClasseAutoAcceleraFrena.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAutoAcceleraFrena\obj\Debug\net8.0\ref\ClasseAutoAcceleraFrena.dll

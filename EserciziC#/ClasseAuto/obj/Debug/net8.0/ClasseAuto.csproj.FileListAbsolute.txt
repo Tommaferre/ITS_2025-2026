@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\bin\Debug\net8.0\ClasseAuto.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\bin\Debug\net8.0\ClasseAuto.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\bin\Debug\net8.0\ClasseAuto.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\bin\Debug\net8.0\ClasseAuto.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\bin\Debug\net8.0\ClasseAuto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\ClasseAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\ClasseAuto.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\ClasseAuto.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\ClasseAuto.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\ClasseAuto.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\ClasseAuto.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\refint\ClasseAuto.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\ClasseAuto.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\ClasseAuto.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\ClasseAuto\obj\Debug\net8.0\ref\ClasseAuto.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseHardDisk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19CA3746-0551-4C3E-A1AE-4F8F7FA446B4}|ClasseHardDisk.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\classeharddisk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CA3746-0551-4C3E-A1AE-4F8F7FA446B4}|ClasseHardDisk.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19CA3746-0551-4C3E-A1AE-4F8F7FA446B4}|ClasseHardDisk.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\classeharddisk\\harddisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19CA3746-0551-4C3E-A1AE-4F8F7FA446B4}|ClasseHardDisk.csproj|solutionrelative:harddisk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HardDisk.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseHardDisk\\HardDisk.cs",
+              "RelativeDocumentMoniker": "HardDisk.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseHardDisk\\HardDisk.cs",
+              "RelativeToolTip": "HardDisk.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA4wB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:41:53.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseHardDisk\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\ClasseHardDisk\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:41:09.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
