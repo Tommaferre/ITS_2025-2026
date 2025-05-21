@@ -46,7 +46,7 @@ class Visita:
                             # Controllo se il medico ha già 3 visite
                                 count_visite = db.fetchQuery('SELECT COUNT(*) FROM Visita WHERE id_medico = ?', (self.id_medico,))
                                 if count_visite and count_visite[0][0] >= 3:#prendo il risultato alla posizione 0 della lista data dalla query
-                                    print("Il medico con ID ha già raggiunto il limite di 3 visite.")
+                                    print("Il medico con ID" +self.id_medico+" ha già raggiunto il limite di 3 visite.")
                                     scelta = input("Vuoi registrare un nuovo medico? (s/n)\n").strip().lower()
                                     if scelta == 's':
                                         medico.nuovo_medico()
