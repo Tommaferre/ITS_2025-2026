@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background: #2285ad;
+    min-height: 100vh;
+}
+
+.button-container {
+    text-align: center;
+    margin-bottom: 300px;
+}
+
+.button-container button {
+    background: #4CAF50;
+    border: none;
+    color: rgb(255, 251, 0);
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.button-container button:hover {
+    background: #45a049;
+}
+
+#cat {
+    position: absolute;
+    left: 0px;
+    top: 50%;
+    width: 200px;
+    height: auto;
+}
