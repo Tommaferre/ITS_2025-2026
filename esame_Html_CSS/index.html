@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Tommaso Ferreros">
+
+    <title>ESAME HTML CSS FERRERO</title>
+
+    <!-- CSS -->
+     <link rel="stylesheet" href="./CSS/style.css">
+     <link href="./FONT/fontawesome-free-6.7.2-web/css/all.min.css" rel="stylesheet" />
+
+    <!-- FONT -->
+    <link href="./FONT/fontawesome-free-6.7.2-web/css/all.min.css" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet"> 
+
+</head>
+<body>
+    <header>
+        <div class= "logo">
+            <img src="./img/logo-fila1.png" alt="logo">
+        </div>
+        <div class="menu">
+            <ul>
+                <a href="#">LISTA INVITATI</a>
+                <a href="https://www.imdb.com/it/title/tt0080455/" target="_blank">LISTA EVENTI</a>
+            </ul>
+        </div>
+        <div class="user">
+            <img src="./img/profile-default.svg" alt="user">
+            <span>TOMMASO FERRERO</span>
+        </div>
+    </header>
+        <section class="guest-list">
+            <h1>Lista invitati</h1>
+            <p>Una lista invitati digitale per eventi offre funzionalità centralizzate per gestire in modo dinamico e interattivo la partecipazione. Permette di visualizzare l'elenco completo degli invitati, spesso con dettagli aggiuntivi come contatti o preferenze alimentari.</p>
+          
+
+        <div class="filters">
+            <h3>Filtri di ricerca</h3>
+            <div class="filter-container">
+                <div class="filter-item">
+                    <label for="name">Nome</label>
+                    <input type="text" id="name" placeholder="Inserisci il nome per la ricerca">
+                </div>
+                <div class="filter-item">
+                    <label for="date">Data inserimento</label>
+                    <input type="date" id="date">
+                </div>
+                <div class="filter-item">
+                    <label for="state">Stato</label>
+                    <div class="status-buttons">
+                        <button class="btn-accept">Accettato</button>
+                        <button class="btn-pending">In attesa</button>
+                        <button class="btn-reject">Rifiutato</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <div class="guest-table">
+                <div class="table-header">
+                    <span>20 Elementi</span>
+                    <select>
+                        <option>Ordina per</option>
+                    </select>
+                </div>
+                
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Nominativo</th>
+                            <th>Contatti</th>
+                            <th>Intolleranze/ Allergie</th>
+                            <th>Stato</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Aldo Baldo</td>
+                            <td>
+                                <div class="contact">
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td>Glutine e lattosio</td>
+                            <td><button class="btn-accept">Accettato</button></td>
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Beatrice Alberini</td>
+                            <td>
+                                <div class="contact">
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td></td>
+                            <td><button class="btn-reject">Rifiutato</button></td>
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Chiara Sole</td>
+                            <td>
+                                <div class="contact">
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td>Arachidi</td>
+                            <td><button class="btn-pending">In attesa</button></td>
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Donato Fornace</td>
+                            <td>
+                                <div class="contact">
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td></td>
+                            <td><button class="btn-accept">Accettato</button></td>
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Emilio Zimbo</td>
+                            <td>
+                                <div class="contact">
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td>Fragole e ciliege</td>
+                            <td><button class="btn-accept">Accettato</button></td>
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Fabiana Toppini</td>
+                            <td>
+                                <div class="contact">
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td>Glutine e lattosio</td>
+                            <td><button class="btn-reject">Rifiutato</button></td>
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Giovanni Rebelli</td>
+                            <td>
+                                <div class="contact">
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td></td>
+                            <td><button class="btn-pending">In attesa</button></td> 
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                        </tr>
+                        <tr>
+                            <td> Henry Alf</td>
+                            <td>
+                                <div class="contact">
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td></td>
+                            <td><button class="btn-pending">In attesa</button></td>
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Ivana Caldo</td>
+                            <td>
+                                <div class="contact">
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td>Nocciole</td>
+                            <td><button class="btn-reject">Rifiutato</button></td>
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                        </tr>
+                        <tr>
+                            <td>Lucrezia Gessina</td>
+                            <td>
+                                <div class="contact">  
+                                    <span class="phone"><i class="fas fa-phone"></i> 3331231239</span>
+                                    <a href="#" class="email"><i class="fas fa-envelope"></i> a.bb@mail.com</a>
+                                </div>
+                            </td>
+                            <td>Agrumi</td>
+                            <td><button class="btn-pending">In attesa</button></td>
+                            <td><span class="edit-icon"><img src="./img/Edit.PNG"></span></td>
+                    </tbody>
+                </table>
+                </tables>
+                
+                <div class="pagination">
+                    <span>1-10 di 10</span>
+                    <div class="page-controls">
+                        <button class="page active">1</button>
+                        <button class="page">2</button>
+                        <button class="next"><i class="fas fa-chevron-right"></i></button>
+                    </div>
+                </div>
+            </div>
+        <section class="other-events">
+            <h3>Altri eventi <i class="fas fa-chevron-right"></i></h3>
+            <div class="event-cards">
+                <div class="card">
+                    <img src="./img/pexels-myersmc16-919190.jpg" alt="InCloud">
+                    <h4>InCloud</h4>
+                </div>
+                <div class="card">
+                    <img src="./img/pexels-natalinadmay-18041838.jpg" alt="Segnali nascosti">
+                    <h4>Segnali nascosti</h4>
+                </div>
+                <div class="card">
+                    <img src="./img/pexels-a-darmel-7862248.jpg" alt="Game play">
+                    <h4>Game play</h4>
+                </div>
+                <div class="card">
+                    <img src="./img/unnamed.png" alt="Disco Labirinto">
+                    <h4>Disco Labirinto</h4>
+                </div>
+                <div class="card">
+                    <img src="./img/c8ae470619a36fd6703aefdc6d3b6590.jpg" alt="Organizzazioni">
+                    <h4>Organizzamoci</h4>
+                </div>
+                <div class="card green-tag">
+                    <img src="./img/pexels-mclt-638701.jpg" alt="Black&White">
+                    <h4>Black&White</h4>
+                </div>
+
+            </div>
+        </section>    
+    </main>
+    <div class="gradiente-linea"></div>
+    <footer>
+        <div class="footer-left">
+            <div class="footer-logo">
+                <img src="./img/logo-fila1.png" alt="logo">
+            </div>
+            <div class="footer-text">
+                <p>La tua soluzione completa per organizzare eventi indimenticabili e tenere traccia di ogni invito</p>
+            </div>
+        </div>
+        
+        <div class="footer-right">
+            <div class="footer-social">
+                <a href="#"><i class="fab fa-instagram"></i></a>
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+            </div>
+            <hr>
+            <div class="footer-right-raw">
+                <div class="footer-links">
+                    <a href="#">Privacy policy</a>
+                    <a href="#">Termini e condizioni</a>
+                </div>
+                <div class="copyright">
+                    <p>copyright @45minutes</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>    
