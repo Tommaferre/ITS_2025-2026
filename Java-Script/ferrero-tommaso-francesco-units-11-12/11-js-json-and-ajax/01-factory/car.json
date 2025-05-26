@@ -1,0 +1,23 @@
+{
+  "id": "CAR001",
+  "make": "Toyota",
+  "model": "Camry",
+  "year": 2023,
+  "price": 28500.99,
+  "isElectric": false,
+  "colors": ["White", "Black", "Silver", "Red"],
+  "engine": {
+    "type": "4-cylinder",
+    "displacement": 2.5,
+    "horsepower": 203,
+    "fuelType": "Gasoline"
+  },
+  "features": ["Air Conditioning", "Bluetooth", "Backup Camera", "Lane Assist"],
+  "warranty": {
+    "basic": "3 years / 36,000 miles",
+    "powertrain": "5 years / 60,000 miles"
+  },
+  "recalls": null,
+  "inStock": true,
+  "manufacturedDate": "2023-05-15T10:30:00Z"
+}

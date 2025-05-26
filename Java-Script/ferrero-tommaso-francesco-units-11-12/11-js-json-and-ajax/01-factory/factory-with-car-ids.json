@@ -1,0 +1,35 @@
+{
+  "id": "FACTORY001",
+  "name": "Toyota Motor Manufacturing",
+  "location": {
+    "address": "1001 Cherry Blossom Way",
+    "city": "Georgetown",
+    "state": "Kentucky",
+    "zipCode": "40324",
+    "country": "USA",
+    "coordinates": {
+      "latitude": 38.2098,
+      "longitude": -84.5588
+    }
+  },
+  "established": 1988,
+  "isActive": true,
+  "productionCapacity": 550000,
+  "employees": 8500,
+  "certifications": ["ISO 9001", "ISO 14001", "OHSAS 18001"],
+  "specialties": ["Sedan Manufacturing", "Hybrid Technology", "Quality Control"],
+  "parentCompany": {
+    "name": "Toyota Motor Corporation",
+    "headquarters": "Toyota City, Japan",
+    "founded": 1937
+  },
+  "contact": {
+    "phone": "+1-502-868-3000",
+    "email": "info@toyotaky.com",
+    "website": "https://www.toyota.com/usa/operations/map/georgetown"
+  },
+  "sustainabilityRating": 4.2,
+  "lastInspection": "2024-11-15T09:00:00Z",
+  "complianceViolations": null,
+  "carIds": ["CAR001", "CAR002", "CAR003", "CAR004", "CAR005"]
+}

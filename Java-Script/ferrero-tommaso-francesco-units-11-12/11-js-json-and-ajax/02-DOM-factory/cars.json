@@ -1,0 +1,122 @@
+[
+    {
+        "id": "CAR001",
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2023,
+        "price": 28500.99,
+        "isElectric": false,
+        "colors": ["White", "Black", "Silver", "Red"],
+        "engine": {
+            "type": "4-cylinder",
+            "displacement": 2.5,
+            "horsepower": 203,
+            "fuelType": "Gasoline"
+        },
+        "features": ["Air Conditioning", "Bluetooth", "Backup Camera", "Lane Assist"],
+        "warranty": {
+            "basic": "3 years / 36,000 miles",
+            "powertrain": "5 years / 60,000 miles"
+        },
+        "recalls": null,
+        "inStock": true,
+        "manufacturedDate": "2023-05-15T10:30:00Z",
+        "factoryId": "FACTORY001"
+    },
+    {
+        "id": "CAR002",
+        "make": "Toyota",
+        "model": "Prius",
+        "year": 2024,
+        "price": 32850.00,
+        "isElectric": true,
+        "colors": ["Blue", "White", "Silver"],
+        "engine": {
+            "type": "Hybrid",
+            "displacement": 1.8,
+            "horsepower": 121,
+            "fuelType": "Hybrid"
+        },
+        "features": ["Solar Roof", "Advanced Safety Package", "Wireless Charging", "Smart Key"],
+        "warranty": {
+            "basic": "3 years / 36,000 miles",
+            "powertrain": "5 years / 60,000 miles"
+        },
+        "recalls": null,
+        "inStock": true,
+        "manufacturedDate": "2024-02-20T14:15:00Z",
+        "factoryId": "FACTORY001"
+    },
+    {
+        "id": "CAR003",
+        "make": "Toyota",
+        "model": "RAV4",
+        "year": 2023,
+        "price": 35200.50,
+        "isElectric": false,
+        "colors": ["Gray", "Black", "Blue", "White"],
+        "engine": {
+            "type": "4-cylinder",
+            "displacement": 2.5,
+            "horsepower": 203,
+            "fuelType": "Gasoline"
+        },
+        "features": ["All-Wheel Drive", "Roof Rails", "Apple CarPlay", "Toyota Safety Sense"],
+        "warranty": {
+            "basic": "3 years / 36,000 miles",
+            "powertrain": "5 years / 60,000 miles"
+        },
+        "recalls": null,
+        "inStock": false,
+        "manufacturedDate": "2023-08-10T11:45:00Z",
+        "factoryId": "FACTORY001"
+    },
+    {
+        "id": "CAR004",
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2023,
+        "price": 24500.75,
+        "isElectric": false,
+        "colors": ["Red", "White", "Black"],
+        "engine": {
+            "type": "4-cylinder",
+            "displacement": 2.0,
+            "horsepower": 169,
+            "fuelType": "Gasoline"
+        },
+        "features": ["Bluetooth", "USB Ports", "Backup Camera", "Lane Departure Alert"],
+        "warranty": {
+            "basic": "3 years / 36,000 miles",
+            "powertrain": "5 years / 60,000 miles"
+        },
+        "recalls": null,
+        "inStock": true,
+        "manufacturedDate": "2023-03-22T16:20:00Z",
+        "factoryId": "FACTORY001"
+    },
+    {
+        "id": "CAR005",
+        "make": "Toyota",
+        "model": "Highlander",
+        "year": 2024,
+        "price": 42750.25,
+        "isElectric": false,
+        "colors": ["White", "Silver", "Black", "Bronze"],
+        "engine": {
+            "type": "V6",
+            "displacement": 3.5,
+            "horsepower": 295,
+            "fuelType": "Gasoline"
+        },
+        "features": ["Third Row Seating", "Panoramic Sunroof", "Premium Audio", "Navigation System"],
+        "warranty": {
+            "basic": "3 years / 36,000 miles",
+            "powertrain": "5 years / 60,000 miles"
+        },
+        "recalls": null,
+        "inStock": true,
+        "manufacturedDate": "2024-01-05T08:30:00Z",
+        "factoryId": "FACTORY001"
+    }
+]
