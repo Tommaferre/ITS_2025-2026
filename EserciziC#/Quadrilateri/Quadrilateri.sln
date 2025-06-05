@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrilateri", "Quadrilateri.csproj", "{BFCB7CA9-07DB-46D3-9CD9-3EFAE5FF9A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFCB7CA9-07DB-46D3-9CD9-3EFAE5FF9A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCB7CA9-07DB-46D3-9CD9-3EFAE5FF9A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCB7CA9-07DB-46D3-9CD9-3EFAE5FF9A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCB7CA9-07DB-46D3-9CD9-3EFAE5FF9A40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A72909-6602-4ED3-AC92-2660D6AE4672}
+	EndGlobalSection
+EndGlobal

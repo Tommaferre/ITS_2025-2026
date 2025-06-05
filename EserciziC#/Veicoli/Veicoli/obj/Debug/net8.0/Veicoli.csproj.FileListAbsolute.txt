@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\Veicoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\Veicoli.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\Veicoli.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\Veicoli.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\Veicoli.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\bin\Debug\net8.0\Veicoli.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\bin\Debug\net8.0\Veicoli.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\bin\Debug\net8.0\Veicoli.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\bin\Debug\net8.0\Veicoli.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\bin\Debug\net8.0\Veicoli.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\Veicoli.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\refint\Veicoli.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\Veicoli.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\Veicoli.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Veicoli\Veicoli\obj\Debug\net8.0\ref\Veicoli.dll

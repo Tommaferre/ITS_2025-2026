@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Prodotti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3CC21-C771-4DAF-939F-FAE18FED87A2}|Prodotti\\Prodotti.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\prodotti\\prodotti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3CC21-C771-4DAF-939F-FAE18FED87A2}|Prodotti\\Prodotti.csproj|solutionrelative:prodotti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3CC21-C771-4DAF-939F-FAE18FED87A2}|Prodotti\\Prodotti.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\prodotti\\prodotti\\nonalimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3CC21-C771-4DAF-939F-FAE18FED87A2}|Prodotti\\Prodotti.csproj|solutionrelative:prodotti\\nonalimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3CC21-C771-4DAF-939F-FAE18FED87A2}|Prodotti\\Prodotti.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\prodotti\\prodotti\\alimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3CC21-C771-4DAF-939F-FAE18FED87A2}|Prodotti\\Prodotti.csproj|solutionrelative:prodotti\\alimentare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE3CC21-C771-4DAF-939F-FAE18FED87A2}|Prodotti\\Prodotti.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\prodotti\\prodotti\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FE3CC21-C771-4DAF-939F-FAE18FED87A2}|Prodotti\\Prodotti.csproj|solutionrelative:prodotti\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NonAlimentare.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Prodotti\\Prodotti\\NonAlimentare.cs",
+              "RelativeDocumentMoniker": "Prodotti\\NonAlimentare.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Prodotti\\Prodotti\\NonAlimentare.cs",
+              "RelativeToolTip": "Prodotti\\NonAlimentare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:46:09.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alimentare.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Prodotti\\Prodotti\\Alimentare.cs",
+              "RelativeDocumentMoniker": "Prodotti\\Alimentare.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Prodotti\\Prodotti\\Alimentare.cs",
+              "RelativeToolTip": "Prodotti\\Alimentare.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:45:39.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Prodotti\\Prodotti\\Prodotto.cs",
+              "RelativeDocumentMoniker": "Prodotti\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Prodotti\\Prodotti\\Prodotto.cs",
+              "RelativeToolTip": "Prodotti\\Prodotto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:43:17.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Prodotti\\Prodotti\\Program.cs",
+              "RelativeDocumentMoniker": "Prodotti\\Program.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Prodotti\\Prodotti\\Program.cs",
+              "RelativeToolTip": "Prodotti\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T14:43:04.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

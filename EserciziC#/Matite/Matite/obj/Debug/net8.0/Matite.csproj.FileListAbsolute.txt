@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\bin\Debug\net8.0\Matite.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\bin\Debug\net8.0\Matite.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\bin\Debug\net8.0\Matite.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\bin\Debug\net8.0\Matite.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\bin\Debug\net8.0\Matite.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\Matite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\Matite.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\Matite.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\Matite.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\Matite.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\Matite.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\refint\Matite.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\Matite.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\Matite.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Matite\Matite\obj\Debug\net8.0\ref\Matite.dll

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Veicoli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F224FFAA-0F57-419F-A494-05DE526DF202}|Veicoli\\Veicoli.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\veicoli\\veicoli\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224FFAA-0F57-419F-A494-05DE526DF202}|Veicoli\\Veicoli.csproj|solutionrelative:veicoli\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224FFAA-0F57-419F-A494-05DE526DF202}|Veicoli\\Veicoli.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\veicoli\\veicoli\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224FFAA-0F57-419F-A494-05DE526DF202}|Veicoli\\Veicoli.csproj|solutionrelative:veicoli\\veicolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224FFAA-0F57-419F-A494-05DE526DF202}|Veicoli\\Veicoli.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\veicoli\\veicoli\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224FFAA-0F57-419F-A494-05DE526DF202}|Veicoli\\Veicoli.csproj|solutionrelative:veicoli\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F224FFAA-0F57-419F-A494-05DE526DF202}|Veicoli\\Veicoli.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\veicoli\\veicoli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F224FFAA-0F57-419F-A494-05DE526DF202}|Veicoli\\Veicoli.csproj|solutionrelative:veicoli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Scooter.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Veicoli\\Veicoli\\Scooter.cs",
+              "RelativeDocumentMoniker": "Veicoli\\Scooter.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Veicoli\\Veicoli\\Scooter.cs",
+              "RelativeToolTip": "Veicoli\\Scooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:42:56.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Veicoli\\Veicoli\\Auto.cs",
+              "RelativeDocumentMoniker": "Veicoli\\Auto.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Veicoli\\Veicoli\\Auto.cs",
+              "RelativeToolTip": "Veicoli\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:42:18.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Veicolo.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Veicoli\\Veicoli\\Veicolo.cs",
+              "RelativeDocumentMoniker": "Veicoli\\Veicolo.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Veicoli\\Veicoli\\Veicolo.cs",
+              "RelativeToolTip": "Veicoli\\Veicolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:41:49.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Veicoli\\Veicoli\\Program.cs",
+              "RelativeDocumentMoniker": "Veicoli\\Program.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Veicoli\\Veicoli\\Program.cs",
+              "RelativeToolTip": "Veicoli\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T13:41:31.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
