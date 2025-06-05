@@ -1,177 +1,135 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    margin: 0;
-    padding: 20px;
-    min-height: 100vh;
-}
+            font-family: Arial, sans-serif;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
 
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    background: rgba(255, 255, 255, 0.95);
-    backdrop-filter: blur(10px);
-    border-radius: 20px;
-    padding: 30px;
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
-}
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
 
-h1 {
-    text-align: center;
-    color: #333;
-    margin-bottom: 40px;
-    font-size: 2.5rem;
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
-}
+        h2 {
+            color: #444;
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+            margin-top: 30px;
+        }
 
-.section {
-    margin-bottom: 40px;
-    background: white;
-    border-radius: 15px;
-    padding: 25px;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
-    border: 1px solid rgba(0, 0, 0, 0.05);
-}
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
 
-h2 {
-    color: #4a5568;
-    border-bottom: 3px solid #667eea;
-    padding-bottom: 10px;
-    margin-top: 0;
-    font-size: 1.8rem;
-}
+        .cars-list, .factory-list {
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
 
-.styled-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
+        .factory-section {
+            grid-column: 1 / -1;
+            background: white;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
 
-.styled-list li {
-    background: linear-gradient(135deg, #f8f9ff 0%, #f1f5ff 100%);
-    margin: 15px 0;
-    padding: 20px;
-    border-radius: 12px;
-    border-left: 5px solid #667eea;
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: hidden;
-}
+        ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
 
-.styled-list li:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
-    border-left-color: #764ba2;
-}
+        li {
+            background: #f8f9fa;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #007bff;
+            transition: transform 0.2s ease;
+        }
 
-.styled-list li::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 0;
-    width: 0;
-    height: 100%;
-    background: linear-gradient(135deg, #667eea, #764ba2);
-    transition: width 0.3s ease;
-    z-index: 0;
-}
+        li:hover {
+            transform: translateX(5px);
+            background: #e9ecef;
+        }
 
-.styled-list li:hover::before {
-    width: 5px;
-}
+        .car-info {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+        }
 
-.item-content {
-    position: relative;
-    z-index: 1;
-}
+        .car-name {
+            font-weight: bold;
+            font-size: 1.1em;
+            color: #333;
+        }
 
-.item-title {
-    font-weight: bold;
-    color: #2d3748;
-    font-size: 1.2rem;
-    margin-bottom: 8px;
-    display: flex;
-    align-items: center;
-}
+        .car-price {
+            color: #28a745;
+            font-weight: bold;
+        }
 
-.item-title::before {
-    content: '🚗';
-    margin-right: 10px;
-    font-size: 1.3rem;
-}
+        .car-details {
+            margin-top: 8px;
+            color: #666;
+            font-size: 0.9em;
+        }
 
-.factory .item-title::before {
-    content: '🏭';
-}
+        .status-badge {
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.8em;
+            font-weight: bold;
+        }
 
-.item-details {
-    color: #4a5568;
-    line-height: 1.6;
-    font-size: 0.95rem;
-}
+        .in-stock {
+            background: #d4edda;
+            color: #155724;
+        }
 
-.detail-row {
-    margin: 5px 0;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-}
+        .out-of-stock {
+            background: #f8d7da;
+            color: #721c24;
+        }
 
-.detail-item {
-    background: rgba(102, 126, 234, 0.1);
-    padding: 4px 8px;
-    border-radius: 6px;
-    font-size: 0.85rem;
-    font-weight: 500;
-}
+        .factory-info {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
 
-.price {
-    color: #38a169;
-    font-weight: bold;
-    font-size: 1.1rem;
-}
+        .factory-detail {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            border-left: 4px solid #28a745;
+        }
 
-.status {
-    padding: 4px 10px;
-    border-radius: 15px;
-    font-size: 0.8rem;
-    font-weight: bold;
-    text-transform: uppercase;
-}
+        .factory-detail strong {
+            color: #333;
+        }
 
-.in-stock {
-    background: #68d391;
-    color: #1a202c;
-}
-
-.out-of-stock {
-    background: #fc8181;
-    color: #1a202c;
-}
-
-.electric {
-    background: #4fd1c7;
-    color: #1a202c;
-}
-
-.gasoline {
-    background: #a78bfa;
-    color: #1a202c;
-}
-
-@media (max-width: 768px) {
-    .container {
-        padding: 20px;
-        margin: 10px;
-    }
-    
-    h1 {
-        font-size: 2rem;
-    }
-    
-    .detail-row {
-        flex-direction: column;
-        gap: 8px;
-    }
-}
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+            
+            .car-info {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+            
+            .factory-info {
+                grid-template-columns: 1fr;
+            }
+        }

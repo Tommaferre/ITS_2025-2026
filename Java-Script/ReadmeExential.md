@@ -4,6 +4,6 @@
 
 Tommaso Ferrero SWD
 
-## Test of the exercise
+## Text of the exercise
 
 ## Description of the solution of the exercise
