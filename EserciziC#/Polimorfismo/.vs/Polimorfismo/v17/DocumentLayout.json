@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\polimorfismo\\polimorfismo\\operaio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\operaio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\polimorfismo\\polimorfismo\\operaiospecializzato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\operaiospecializzato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\polimorfismo\\polimorfismo\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\dipendente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\polimorfismo\\polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|c:\\users\\tommaso.ferrero\\desktop\\its2025_swd\\esercizic#\\polimorfismo\\polimorfismo\\amministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151AD7EA-1D12-4432-9E7F-58423F21089F}|Polimorfismo\\Polimorfismo.csproj|solutionrelative:polimorfismo\\amministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperaioSpecializzato.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\OperaioSpecializzato.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\OperaioSpecializzato.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\OperaioSpecializzato.cs",
+              "RelativeToolTip": "Polimorfismo\\OperaioSpecializzato.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:31:25.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Operaio.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\Operaio.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Operaio.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\Operaio.cs",
+              "RelativeToolTip": "Polimorfismo\\Operaio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:30:42.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Amministrativo.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\Amministrativo.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Amministrativo.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\Amministrativo.cs",
+              "RelativeToolTip": "Polimorfismo\\Amministrativo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:30:04.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dipendente.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\Dipendente.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Dipendente.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\Dipendente.cs",
+              "RelativeToolTip": "Polimorfismo\\Dipendente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:29:22.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Polimorfismo\\Program.cs",
+              "ToolTip": "C:\\Users\\Tommaso.Ferrero\\Desktop\\ITS2025_SWD\\EserciziC#\\Polimorfismo\\Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Polimorfismo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T12:27:20.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
