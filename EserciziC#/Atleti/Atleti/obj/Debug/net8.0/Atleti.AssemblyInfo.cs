@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atleti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f912771b57428bd932932f1dfeb3f8d769f1a4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15597c952b683dda1fc5523e1b3aa5e5b83d18a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Atleti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Atleti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
