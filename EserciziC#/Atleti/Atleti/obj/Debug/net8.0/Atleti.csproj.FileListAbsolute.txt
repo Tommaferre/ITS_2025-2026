@@ -1,0 +1,15 @@
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\bin\Debug\net8.0\Atleti.exe
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\bin\Debug\net8.0\Atleti.deps.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\bin\Debug\net8.0\Atleti.runtimeconfig.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\bin\Debug\net8.0\Atleti.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\bin\Debug\net8.0\Atleti.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\Atleti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\Atleti.AssemblyInfoInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\Atleti.AssemblyInfo.cs
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\Atleti.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\Atleti.sourcelink.json
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\Atleti.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\refint\Atleti.dll
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\Atleti.pdb
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\Atleti.genruntimeconfig.cache
+C:\Users\Tommaso.Ferrero\Desktop\ITS2025_SWD\EserciziC#\Atleti\Atleti\obj\Debug\net8.0\ref\Atleti.dll
