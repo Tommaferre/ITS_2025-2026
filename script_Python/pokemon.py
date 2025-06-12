@@ -1,2 +1,2 @@
 print('ciao')
-print('samantha')asd
+print('samantha')
