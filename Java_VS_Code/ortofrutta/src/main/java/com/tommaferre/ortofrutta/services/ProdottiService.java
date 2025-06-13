@@ -8,5 +8,6 @@ public interface ProdottiService {
 
     List<Prodotto> getProdotti();
 
+    List<Prodotto> getProdottiByCategoria(String categoria);
 
 }

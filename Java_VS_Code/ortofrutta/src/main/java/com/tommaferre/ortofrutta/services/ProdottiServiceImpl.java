@@ -20,5 +20,12 @@ public class ProdottiServiceImpl implements ProdottiService {
         
        return repo.findAll();
     }
+
+
+    @Override
+    public List<Prodotto> getProdottiByCategoria(String categoria) {
+        
+        return repo.findByCategoria(categoria);
+    }
     
 }
