@@ -10,7 +10,24 @@
     
     <div class="container">
         <h1>Titolo</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores consectetur enim culpa quisquam quas possimus corrupti! Voluptatibus quia porro cupiditate placeat quos perspiciatis! At iste, quis numquam ipsa quam officia.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Nome</th>
+                    <th>Categoria</th>
+                    <th>Origine</th>
+                    <th>Prezzo al Kg</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr th:each="p: ${prodotti}">
+                    <td th:text="${p.Nome}"></td>
+                    <td th:text="${p.Categoria}"></td>
+                    <td th:text="${p.Origine}"></td>
+                    <td th:text="${p.Prezzo}"></td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 
 

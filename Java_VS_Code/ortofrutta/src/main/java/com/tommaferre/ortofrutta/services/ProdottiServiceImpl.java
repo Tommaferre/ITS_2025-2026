@@ -2,28 +2,23 @@ package com.tommaferre.ortofrutta.services;
 
 import java.util.List;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.tommaferre.ortofrutta.entities.Prodotto;
+import com.tommaferre.ortofrutta.repos.ProdottoRepo;
 
 @Service
 public class ProdottiServiceImpl implements ProdottiService {
 
+    @Autowired
+    private ProdottoRepo repo;
+
+
     @Override
     public List<Prodotto> getProdotti() {
         
-        Prodotto p1 = new Prodotto();
-        p1.setNome("Mela");
-        p1.setCategoria("Frutta");
-        p1.setPrezzoKg(2);
-
-
-        Prodotto p2 = new Prodotto();
-        p1.setNome("Carciofo");
-        p1.setCategoria("Verdura");
-        p1.setPrezzoKg(3);
-
-        return List.of(p1,p2);
+       return repo.findAll();
     }
     
 }
