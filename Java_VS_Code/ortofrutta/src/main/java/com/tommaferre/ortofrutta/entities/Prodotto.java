@@ -1,0 +1,49 @@
+package com.tommaferre.ortofrutta.entities;
+
+public class Prodotto {
+
+    private int id;
+    private String nome;
+    private String categoria;
+    private String origine;
+    private double prezzoKg;
+    private String disponibilita;
+
+
+    public int getId() {
+        return id;
+    }
+    public void setId(int id) {
+        this.id = id;
+    }
+    public String getNome() {
+        return nome;
+    }
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+    public String getCategoria() {
+        return categoria;
+    }
+    public void setCategoria(String categoria) {
+        this.categoria = categoria;
+    }
+    public String getOrigine() {
+        return origine;
+    }
+    public void setOrigine(String origine) {
+        this.origine = origine;
+    }
+    public double getPrezzoKg() {
+        return prezzoKg;
+    }
+    public void setPrezzoKg(double prezzoKg) {
+        this.prezzoKg = prezzoKg;
+    }
+    public String getDisponibilita() {
+        return disponibilita;
+    }
+    public void setDisponibilita(String disponibilita) {
+        this.disponibilita = disponibilita;
+    }
+}
