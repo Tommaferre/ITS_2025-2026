@@ -1,16 +1,5 @@
 # Guida Rapida ai Metodi degli Array in JavaScript 🚀
 
-## Indice
-
-1. [Informazioni di Base](#informazioni-di-base)
-2. [Accesso agli Elementi](#accesso-agli-elementi)
-3. [Trasformazione in Stringhe](#trasformazione-in-stringhe)
-4. [Aggiungere e Rimuovere Elementi](#aggiungere-e-rimuovere-elementi)
-5. [Modificare Arrays](#modificare-arrays)
-6. [Unire Arrays](#unire-arrays)
-7. [Copiare Parti di un Array](#copiare-parti-di-un-array)
-8. [Appiattire Arrays](#appiattire-arrays)
-
 ## Informazioni di Base
 
 ### length
